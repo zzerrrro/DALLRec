@@ -1,0 +1,322 @@
+[
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: One Flew Over the Cuckoo's Nest (1975) (Drama), James and the Giant Peach (1996) (Animation|Children's|Musical), My Fair Lady (1964) (Musical|Romance), Erin Brockovich (2000) (Drama), Bug's Life, A (1998) (Animation|Children's|Comedy), dislikes:None. Whether the user will like the target movie:'Miracle on 34th Street (1947) (Drama)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Nikita (La Femme Nikita) (1990) (Thriller), Grifters, The (1990) (Crime|Drama|Film-Noir), Mission: Impossible (1996) (Action|Adventure|Mystery), Village of the Damned (1960) (Horror|Sci-Fi|Thriller), Children of the Damned (1963) (Horror|Sci-Fi|Thriller), dislikes: Touch of Evil (1958) (Crime|Film-Noir|Thriller), ...And Justice for All (1979) (Drama|Thriller), Alien (1992) (Action|Horror|Sci-Fi|Thriller), Purple Noon (1960) (Crime|Thriller), Jumanji (1995) (Adventure|Children's|Fantasy). Whether the user will like the target movie:'Coneheads (1993) (Comedy|Sci-Fi)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Shine (1996) (Drama|Romance), Verdict, The (1982) (Drama), Shall We Dance? (Shall We Dansu?) (1996) (Comedy), Courage Under Fire (1996) (Drama|War), Untouchables, The (1987) (Action|Crime|Drama), dislikes: GoodFellas (1990) (Crime|Drama), Cliffhanger (1993) (Action|Adventure|Crime), Backdraft (1991) (Action|Drama), Breakfast at Tiffany's (1961) (Drama|Romance), Patriot Games (1992) (Action|Thriller). Whether the user will like the target movie:'Con Air (1997) (Action|Adventure|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), X-Men (2000) (Action|Sci-Fi), Muppets From Space (1999) (Children's|Comedy), Payback (1999) (Action|Thriller), dislikes: What Lies Beneath (2000) (Thriller), South Park: Bigger, Longer and Uncut (1999) (Animation|Comedy), Lost in Space (1998) (Action|Sci-Fi|Thriller), Aladdin (1992) (Animation|Children's|Comedy|Musical), Small Soldiers (1998) (Animation|Children's|Fantasy|War). Whether the user will like the target movie:'Star Trek: Generations (1994) (Action|Adventure|Sci-Fi)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Animal House (1978) (Comedy), Mission: Impossible (1996) (Action|Adventure|Mystery), Raising Arizona (1987) (Comedy), 28 Days (2000) (Comedy), Happy Gilmore (1996) (Comedy), dislikes: Full Monty, The (1997) (Comedy), Hollywood Knights, The (1980) (Comedy), Evil Dead II (Dead By Dawn) (1987) (Action|Adventure|Comedy|Horror), Groundhog Day (1993) (Comedy|Romance), Mummy, The (1999) (Action|Adventure|Horror|Thriller). Whether the user will like the target movie:'Ghost and the Darkness, The (1996) (Action|Adventure)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Haunting, The (1963) (Horror|Thriller), Village of the Damned (1960) (Horror|Sci-Fi|Thriller), Children of the Damned (1963) (Horror|Sci-Fi|Thriller), Sliding Doors (1998) (Drama|Romance), Breaking Away (1979) (Drama), dislikes: Delicatessen (1991) (Comedy|Sci-Fi), Nikita (La Femme Nikita) (1990) (Thriller), Animal House (1978) (Comedy), Truman Show, The (1998) (Drama), Kronos (1973) (Horror). Whether the user will like the target movie:'Shakespeare in Love (1998) (Comedy|Romance)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Hustler, The (1961) (Drama), Star Wars: Episode VI - Return of the Jedi (1983) (Action|Adventure|Romance|Sci-Fi|War), Fistful of Dollars, A (1964) (Action|Western), Alien (1979) (Action|Horror|Sci-Fi|Thriller), Die Hard (1988) (Action|Thriller), dislikes: Star Wars: Episode V - The Empire Strikes Back (1980) (Action|Adventure|Drama|Sci-Fi|War), Predator (1987) (Action|Sci-Fi|Thriller). Whether the user will like the target movie:'Mad Max (1979) (Action|Sci-Fi)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Replacements, The (2000) (Comedy), Godzilla 2000 (Gojira ni-sen mireniamu) (1999) (Action|Adventure|Sci-Fi), X-Men (2000) (Action|Sci-Fi), Meet the Parents (2000) (Comedy), Bring It On (2000) (Comedy), dislikes: Highlander: Endgame (2000) (Action|Adventure|Fantasy), Eye of the Beholder (1999) (Thriller), Supernova (2000) (Adventure|Sci-Fi), Ready to Rumble (2000) (Comedy), Superman IV: The Quest for Peace (1987) (Action|Adventure|Sci-Fi). Whether the user will like the target movie:'Urban Legends: Final Cut (2000) (Horror)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Gods and Monsters (1998) (Drama), Delicatessen (1991) (Comedy|Sci-Fi), Clueless (1995) (Comedy|Romance), Velvet Goldmine (1998) (Drama), dislikes: Natural Born Killers (1994) (Action|Thriller), Few Good Men, A (1992) (Crime|Drama), Maybe, Maybe Not (Bewegte Mann, Der) (1994) (Comedy), Total Recall (1990) (Action|Adventure|Sci-Fi|Thriller), Naked (1993) (Drama). Whether the user will like the target movie:'Paris Is Burning (1990) (Documentary)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Little Rascals, The (1994) (Children's|Comedy), Andre (1994) (Adventure|Children's), All Dogs Go to Heaven (1989) (Animation|Children's), Addams Family, The (1991) (Comedy), Hocus Pocus (1993) (Children's|Comedy), dislikes: Beavis and Butt-head Do America (1996) (Animation|Comedy), Snow White and the Seven Dwarfs (1937) (Animation|Children's|Musical), Beauty and the Beast (1991) (Animation|Children's|Musical), Little Mermaid, The (1989) (Animation|Children's|Comedy|Musical|Romance), 101 Dalmatians (1961) (Animation|Children's). Whether the user will like the target movie:'Teenage Mutant Ninja Turtles (1990) (Action|Children's|Fantasy)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Romancing the Stone (1984) (Action|Adventure|Comedy|Romance), Top Gun (1986) (Action|Romance), Gone in 60 Seconds (2000) (Action|Crime), Pete's Dragon (1977) (Adventure|Animation|Children's|Musical), Anastasia (1997) (Animation|Children's|Musical), dislikes: Pulp Fiction (1994) (Crime|Drama), American Beauty (1999) (Comedy|Drama). Whether the user will like the target movie:'Gypsy (1962) (Musical)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Strictly Ballroom (1992) (Comedy|Romance), Cold Comfort Farm (1995) (Comedy), Ghost (1990) (Comedy|Romance|Thriller), Aladdin (1992) (Animation|Children's|Comedy|Musical), Toy Story (1995) (Animation|Children's|Comedy), dislikes: Being John Malkovich (1999) (Comedy), Life Is Beautiful (La Vita  bella) (1997) (Comedy|Drama), Tea with Mussolini (1999) (Comedy), Muppet Treasure Island (1996) (Adventure|Children's|Comedy|Musical), Analyze This (1999) (Comedy). Whether the user will like the target movie:'Unstrung Heroes (1995) (Comedy|Drama)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Mission: Impossible (1996) (Action|Adventure|Mystery), Supercop (1992) (Action|Thriller), Total Recall (1990) (Action|Adventure|Sci-Fi|Thriller), Gladiator (2000) (Action|Drama), X-Men (2000) (Action|Sci-Fi), dislikes:None. Whether the user will like the target movie:'Exorcist, The (1973) (Horror)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: X-Men (2000) (Action|Sci-Fi), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), Rock, The (1996) (Action|Adventure|Thriller), Star Wars: Episode V - The Empire Strikes Back (1980) (Action|Adventure|Drama|Sci-Fi|War), Princess Bride, The (1987) (Action|Adventure|Comedy|Romance), dislikes: Dear Diary (Caro Diario) (1994) (Comedy|Drama), Brady Bunch Movie, The (1995) (Comedy), Last of the Mohicans, The (1992) (Action|Romance|War), Chambermaid on the Titanic, The (1998) (Romance), Diebinnen (1995) (Drama). Whether the user will like the target movie:'King of New York (1990) (Action|Crime)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Clueless (1995) (Comedy|Romance), Elizabeth (1998) (Drama), Natural Born Killers (1994) (Action|Thriller), Mo' Better Blues (1990) (Drama), Few Good Men, A (1992) (Crime|Drama), dislikes: Payback (1999) (Action|Thriller), Mighty Joe Young (1998) (Adventure|Children's|Drama), Street Fighter (1994) (Action), Any Given Sunday (1999) (Drama), eXistenZ (1999) (Action|Sci-Fi|Thriller). Whether the user will like the target movie:'Toy Story (1995) (Animation|Children's|Comedy)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Grifters, The (1990) (Crime|Drama|Film-Noir), 8 1/2 (1963) (Drama), X-Men (2000) (Action|Sci-Fi), Being John Malkovich (1999) (Comedy), dislikes: Cell, The (2000) (Sci-Fi|Thriller), Footloose (1984) (Drama), Licence to Kill (1989) (Action), Honey, I Shrunk the Kids (1989) (Adventure|Children's|Comedy|Fantasy|Sci-Fi), What Lies Beneath (2000) (Thriller). Whether the user will like the target movie:'Run Lola Run (Lola rennt) (1998) (Action|Crime|Romance)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Few Good Men, A (1992) (Crime|Drama), Donnie Brasco (1997) (Crime|Drama), Jerry Maguire (1996) (Drama|Romance), Truman Show, The (1998) (Drama), Gone in 60 Seconds (2000) (Action|Crime), dislikes: Supercop (1992) (Action|Thriller), Con Air (1997) (Action|Adventure|Thriller), Whole Nine Yards, The (2000) (Comedy|Crime), Romeo Must Die (2000) (Action|Romance), Hollow Man (2000) (Horror|Sci-Fi|Thriller). Whether the user will like the target movie:'Reservoir Dogs (1992) (Crime|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Nikita (La Femme Nikita) (1990) (Thriller), Mission: Impossible (1996) (Action|Adventure|Mystery), Creature From the Black Lagoon, The (1954) (Horror), X-Men (2000) (Action|Sci-Fi), Requiem for a Dream (2000) (Drama), dislikes: Snake Eyes (1998) (Action|Crime|Mystery|Thriller), Meet the Parents (2000) (Comedy), Striptease (1996) (Comedy|Crime), Pitch Black (2000) (Action|Sci-Fi), Batman & Robin (1997) (Action|Adventure|Crime). Whether the user will like the target movie:'Mod Squad, The (1999) (Action|Crime)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Midsummer Night's Dream, A (1999) (Comedy|Fantasy), Mission: Impossible (1996) (Action|Adventure|Mystery), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), Defending Your Life (1991) (Comedy|Romance), Breaking Away (1979) (Drama), dislikes: Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) (Action|Children's|Fantasy), Clerks (1994) (Comedy), Bachelor Party (1984) (Comedy), Mallrats (1995) (Comedy), Fear and Loathing in Las Vegas (1998) (Comedy|Drama). Whether the user will like the target movie:'Naked Gun: From the Files of Police Squad!, The (1988) (Comedy)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Replacements, The (2000) (Comedy), Negotiator, The (1998) (Action|Thriller), Being John Malkovich (1999) (Comedy), Aladdin (1992) (Animation|Children's|Comedy|Musical), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), dislikes: Mission: Impossible (1996) (Action|Adventure|Mystery), X-Men (2000) (Action|Sci-Fi), Dragonheart (1996) (Action|Adventure|Fantasy), Heat (1995) (Action|Crime|Thriller), Get Carter (2000) (Action|Drama|Thriller). Whether the user will like the target movie:'Lost in Space (1998) (Action|Sci-Fi|Thriller)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Half Baked (1998) (Comedy), Billy Madison (1995) (Comedy), Being John Malkovich (1999) (Comedy), Stand by Me (1986) (Adventure|Comedy|Drama), Strictly Ballroom (1992) (Comedy|Romance), dislikes: Truman Show, The (1998) (Drama), American Pie (1999) (Comedy), Home Alone (1990) (Children's|Comedy), Mommie Dearest (1981) (Drama), Nutty Professor, The (1963) (Comedy). Whether the user will like the target movie:'Sling Blade (1996) (Drama|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Enchanted April (1991) (Drama), Creature From the Black Lagoon, The (1954) (Horror), Cell, The (2000) (Sci-Fi|Thriller), Addams Family, The (1991) (Comedy), dislikes: Footloose (1984) (Drama), Honey, I Shrunk the Kids (1989) (Adventure|Children's|Comedy|Fantasy|Sci-Fi), Home Alone (1990) (Children's|Comedy), Ghost (1990) (Comedy|Romance|Thriller), Aladdin (1992) (Animation|Children's|Comedy|Musical). Whether the user will like the target movie:'American Tail, An (1986) (Animation|Children's|Comedy)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Chinatown (1974) (Film-Noir|Mystery|Thriller), Dog Day Afternoon (1975) (Comedy|Crime|Drama), One Flew Over the Cuckoo's Nest (1975) (Drama), Raiders of the Lost Ark (1981) (Action|Adventure), Silence of the Lambs, The (1991) (Drama|Thriller), dislikes: Father of the Bride (1950) (Comedy), Dick Tracy (1990) (Action|Crime). Whether the user will like the target movie:'Godfather: Part II, The (1974) (Action|Crime|Drama)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Aladdin (1992) (Animation|Children's|Comedy|Musical), Groundhog Day (1993) (Comedy|Romance), Rocketeer, The (1991) (Action|Adventure|Sci-Fi), 2010 (1984) (Mystery|Sci-Fi), 2001: A Space Odyssey (1968) (Drama|Mystery|Sci-Fi|Thriller), dislikes: Honey, I Blew Up the Kid (1992) (Children's|Comedy|Sci-Fi), Barb Wire (1996) (Action|Sci-Fi), Silence of the Lambs, The (1991) (Drama|Thriller), Kingpin (1996) (Comedy), Desperately Seeking Susan (1985) (Comedy|Romance). Whether the user will like the target movie:'Back to the Future Part III (1990) (Comedy|Sci-Fi|Western)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Mission: Impossible (1996) (Action|Adventure|Mystery), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), Honey, I Shrunk the Kids (1989) (Adventure|Children's|Comedy|Fantasy|Sci-Fi), Stand by Me (1986) (Adventure|Comedy|Drama), dislikes: Escape to Witch Mountain (1975) (Adventure|Children's|Fantasy), True Grit (1969) (Adventure|Western), Adventures of Buckaroo Bonzai Across the 8th Dimension, The (1984) (Adventure|Comedy|Sci-Fi), Young Sherlock Holmes (1985) (Action|Adventure|Mystery), Maverick (1994) (Action|Comedy|Western). Whether the user will like the target movie:'Flight of the Navigator (1986) (Adventure|Children's|Sci-Fi)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Touch of Evil (1958) (Crime|Film-Noir|Thriller), Grifters, The (1990) (Crime|Drama|Film-Noir), Alien (1992) (Action|Horror|Sci-Fi|Thriller), American Werewolf in London, An (1981) (Horror), dislikes: Shining, The (1980) (Horror), She's the One (1996) (Comedy|Romance), Dark Crystal, The (1982) (Children's|Fantasy|Sci-Fi), Legend (1985) (Adventure|Fantasy|Romance), Tender Mercies (1983) (Drama). Whether the user will like the target movie:'Star Trek V: The Final Frontier (1989) (Action|Adventure|Sci-Fi)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Mission to Mars (2000) (Sci-Fi), Being John Malkovich (1999) (Comedy), Deer Hunter, The (1978) (Drama|War), 400 Blows, The (Les Quatre cents coups) (1959) (Drama), Spaceballs (1987) (Comedy|Sci-Fi), dislikes: 10 Things I Hate About You (1999) (Comedy|Romance), 13th Warrior, The (1999) (Action|Horror|Thriller), Big Daddy (1999) (Comedy), Breakfast Club, The (1985) (Comedy|Drama), Halloween (1978) (Horror). Whether the user will like the target movie:'Sleepy Hollow (1999) (Horror|Romance)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Nikita (La Femme Nikita) (1990) (Thriller), House on Haunted Hill, The (1999) (Horror), English Patient, The (1996) (Drama|Romance|War), Craft, The (1996) (Drama|Horror), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), dislikes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Needful Things (1993) (Drama|Horror), Replacements, The (2000) (Comedy), Snake Eyes (1998) (Action|Crime|Mystery|Thriller), Negotiator, The (1998) (Action|Thriller). Whether the user will like the target movie:'Boiler Room (2000) (Drama)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Animal House (1978) (Comedy), Mission: Impossible (1996) (Action|Adventure|Mystery), She's All That (1999) (Comedy|Romance), Birdcage, The (1996) (Comedy), Snake Eyes (1998) (Action|Crime|Mystery|Thriller), dislikes: Mission to Mars (2000) (Sci-Fi), Being John Malkovich (1999) (Comedy), Dragonheart (1996) (Action|Adventure|Fantasy), Summer of Sam (1999) (Drama), Bachelor, The (1999) (Comedy|Romance). Whether the user will like the target movie:'Perfect Murder, A (1998) (Mystery|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Mission: Impossible (1996) (Action|Adventure|Mystery), Replacements, The (2000) (Comedy), What Lies Beneath (2000) (Thriller), Meet the Parents (2000) (Comedy), Requiem for a Dream (2000) (Drama), dislikes: English Patient, The (1996) (Drama|Romance|War), She's the One (1996) (Comedy|Romance), She's So Lovely (1997) (Drama|Romance), Lost World: Jurassic Park, The (1997) (Action|Adventure|Sci-Fi|Thriller), Whole Nine Yards, The (2000) (Comedy|Crime). Whether the user will like the target movie:'Blue Lagoon, The (1980) (Adventure|Drama|Romance)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Truman Show, The (1998) (Drama), She's All That (1999) (Comedy|Romance), Bachelor, The (1999) (Comedy|Romance), Arsenic and Old Lace (1944) (Comedy|Mystery|Thriller), dislikes: Baby Geniuses (1999) (Comedy), Love Letter, The (1999) (Comedy|Romance), Wild Wild West (1999) (Action|Sci-Fi|Western), Mod Squad, The (1999) (Action|Crime), Lake Placid (1999) (Horror|Thriller). Whether the user will like the target movie:'Drive Me Crazy (1999) (Comedy|Romance)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), For Your Eyes Only (1981) (Action), Mission: Impossible (1996) (Action|Adventure|Mystery), Replacements, The (2000) (Comedy), Addams Family, The (1991) (Comedy), dislikes: Alien (1992) (Action|Horror|Sci-Fi|Thriller), Cell, The (2000) (Sci-Fi|Thriller), Licence to Kill (1989) (Action), Chinatown (1974) (Film-Noir|Mystery|Thriller), Duck Soup (1933) (Comedy|War). Whether the user will like the target movie:'Magnolia (1999) (Drama)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Grifters, The (1990) (Crime|Drama|Film-Noir), Village of the Damned (1960) (Horror|Sci-Fi|Thriller), Children of the Damned (1963) (Horror|Sci-Fi|Thriller), Invisible Man, The (1933) (Horror|Sci-Fi), Cell, The (2000) (Sci-Fi|Thriller), dislikes: Sphere (1998) (Adventure|Sci-Fi|Thriller), Mole People, The (1956) (Sci-Fi), Swamp Thing (1982) (Horror|Sci-Fi), Skulls, The (2000) (Thriller), Moonraker (1979) (Action|Romance|Sci-Fi). Whether the user will like the target movie:'Hidden, The (1987) (Action|Horror|Sci-Fi)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Mission: Impossible (1996) (Action|Adventure|Mystery), Alien (1992) (Action|Horror|Sci-Fi|Thriller), Better Off Dead... (1985) (Comedy), Shining, The (1980) (Horror), dislikes: Honey, I Shrunk the Kids (1989) (Adventure|Children's|Comedy|Fantasy|Sci-Fi), Toy Story (1995) (Animation|Children's|Comedy), Twister (1996) (Action|Adventure|Romance|Thriller), Little Mermaid, The (1989) (Animation|Children's|Comedy|Musical|Romance), Mighty Ducks, The (1992) (Children's|Comedy). Whether the user will like the target movie:'Airplane II: The Sequel (1982) (Comedy)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), For Your Eyes Only (1981) (Action), Midsummer Night's Dream, A (1999) (Comedy|Fantasy), Mission: Impossible (1996) (Action|Adventure|Mystery), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), dislikes: Sex, Lies, and Videotape (1989) (Drama), Teenage Mutant Ninja Turtles (1990) (Action|Children's|Fantasy), Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) (Action|Children's|Fantasy), Alien: Resurrection (1997) (Action|Horror|Sci-Fi), Jumanji (1995) (Adventure|Children's|Fantasy). Whether the user will like the target movie:'Mask of Zorro, The (1998) (Action|Adventure|Romance)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Being John Malkovich (1999) (Comedy), One Flew Over the Cuckoo's Nest (1975) (Drama), Citizen Kane (1941) (Drama), Kingpin (1996) (Comedy), Pacific Heights (1990) (Thriller), dislikes: Shakespeare in Love (1998) (Comedy|Romance), Mission to Mars (2000) (Sci-Fi), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), Blair Witch Project, The (1999) (Horror), Stigmata (1999) (Thriller). Whether the user will like the target movie:'Battlefield Earth (2000) (Action|Sci-Fi)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), For Your Eyes Only (1981) (Action), Animal House (1978) (Comedy), Midsummer Night's Dream, A (1999) (Comedy|Fantasy), Mission: Impossible (1996) (Action|Adventure|Mystery), dislikes: Amityville Horror, The (1979) (Horror), Payback (1999) (Action|Thriller), Lake Placid (1999) (Horror|Thriller), House of Dracula (1945) (Horror), House of Frankenstein (1944) (Horror). Whether the user will like the target movie:'Truman Show, The (1998) (Drama)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Courage Under Fire (1996) (Drama|War), Cell, The (2000) (Sci-Fi|Thriller), X-Men (2000) (Action|Sci-Fi), Craft, The (1996) (Drama|Horror), Jumanji (1995) (Adventure|Children's|Fantasy), dislikes: Honey, I Blew Up the Kid (1992) (Children's|Comedy|Sci-Fi), Music of the Heart (1999) (Drama), Parent Trap, The (1998) (Children's|Drama), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), Governess, The (1998) (Drama|Romance). Whether the user will like the target movie:'Borrowers, The (1997) (Adventure|Children's|Comedy|Fantasy)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Mission: Impossible (1996) (Action|Adventure|Mystery), Cell, The (2000) (Sci-Fi|Thriller), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), Apostle, The (1997) (Drama), Superman II (1980) (Action|Adventure|Sci-Fi), dislikes: Gone in 60 Seconds (2000) (Action|Crime). Whether the user will like the target movie:'Out of Sight (1998) (Action|Crime|Romance)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Alien (1992) (Action|Horror|Sci-Fi|Thriller), Wallace & Gromit: The Best of Aardman Animation (1996) (Animation), Being John Malkovich (1999) (Comedy), Shining, The (1980) (Horror), dislikes: Dances with Wolves (1990) (Adventure|Drama|Western), Independence Day (ID4) (1996) (Action|Sci-Fi|War), Friday the 13th Part 2 (1981) (Horror), Friday the 13th Part 3: 3D (1982) (Horror), Friday the 13th: The Final Chapter (1984) (Horror). Whether the user will like the target movie:'Friday the 13th Part V: A New Beginning (1985) (Horror)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), South Park: Bigger, Longer and Uncut (1999) (Animation|Comedy), Wild Wild West (1999) (Action|Sci-Fi|Western), Brady Bunch Movie, The (1995) (Comedy), Aladdin (1992) (Animation|Children's|Comedy|Musical), dislikes: Pinocchio (1940) (Animation|Children's), Messenger: The Story of Joan of Arc, The (1999) (Drama|War), Devil's Advocate, The (1997) (Crime|Horror|Mystery|Thriller), Bambi (1942) (Animation|Children's), Prince of Egypt, The (1998) (Animation|Musical). Whether the user will like the target movie:'Toy Story (1995) (Animation|Children's|Comedy)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Touch of Evil (1958) (Crime|Film-Noir|Thriller), Melvin and Howard (1980) (Drama), Invisible Man, The (1933) (Horror|Sci-Fi), American Werewolf in London, An (1981) (Horror), dislikes: For Your Eyes Only (1981) (Action), Mission: Impossible (1996) (Action|Adventure|Mystery), Creature From the Black Lagoon, The (1954) (Horror), Needful Things (1993) (Drama|Horror), Cujo (1983) (Horror|Thriller). Whether the user will like the target movie:'101 Dalmatians (1996) (Children's|Comedy)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Defending Your Life (1991) (Comedy|Romance), Fallen (1998) (Action|Mystery|Thriller), Jackal, The (1997) (Action|Thriller), Man Who Knew Too Little, The (1997) (Comedy|Mystery), dislikes: Mission: Impossible (1996) (Action|Adventure|Mystery), Ninth Gate, The (2000) (Thriller), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), Billy Madison (1995) (Comedy), Bad Boys (1995) (Action). Whether the user will like the target movie:'13th Warrior, The (1999) (Action|Horror|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Live and Let Die (1973) (Action), Naked Gun: From the Files of Police Squad!, The (1988) (Comedy), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), Groundhog Day (1993) (Comedy|Romance), dislikes: Breakdown (1997) (Action|Thriller), 54 (1998) (Drama), Karate Kid, The (1984) (Drama), Game, The (1997) (Mystery|Thriller), Cop Land (1997) (Crime|Drama|Mystery). Whether the user will like the target movie:'Aliens (1986) (Action|Sci-Fi|Thriller|War)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Do the Right Thing (1989) (Comedy|Drama), Mission: Impossible (1996) (Action|Adventure|Mystery), Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), Stand by Me (1986) (Adventure|Comedy|Drama), dislikes: Mission to Mars (2000) (Sci-Fi), Legends of the Fall (1994) (Drama|Romance|War|Western), Nine 1/2 Weeks (1986) (Drama), Reality Bites (1994) (Comedy|Drama), Contact (1997) (Drama|Sci-Fi). Whether the user will like the target movie:'Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995) (Comedy|Romance)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Grifters, The (1990) (Crime|Drama|Film-Noir), Snake Eyes (1998) (Action|Crime|Mystery|Thriller), Live and Let Die (1973) (Action), Chinatown (1974) (Film-Noir|Mystery|Thriller), Negotiator, The (1998) (Action|Thriller), dislikes: Rocketeer, The (1991) (Action|Adventure|Sci-Fi), Under Siege (1992) (Action), G.I. Jane (1997) (Action|Drama|War), Conspiracy Theory (1997) (Action|Mystery|Romance|Thriller), Waterworld (1995) (Action|Adventure). Whether the user will like the target movie:'Running Man, The (1987) (Action|Adventure|Sci-Fi)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Animal House (1978) (Comedy), She's Gotta Have It (1986) (Comedy|Romance), Grifters, The (1990) (Crime|Drama|Film-Noir), School Daze (1988) (Drama), Multiplicity (1996) (Comedy), dislikes: Star Wars: Episode I - The Phantom Menace (1999) (Action|Adventure|Fantasy|Sci-Fi), Tigger Movie, The (2000) (Animation|Children's), Billy Madison (1995) (Comedy), Man Who Knew Too Little, The (1997) (Comedy|Mystery), Honey, I Blew Up the Kid (1992) (Children's|Comedy|Sci-Fi). Whether the user will like the target movie:'Craft, The (1996) (Drama|Horror)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Nikita (La Femme Nikita) (1990) (Thriller), For Your Eyes Only (1981) (Action), Mission: Impossible (1996) (Action|Adventure|Mystery), Runaway (1984) (Sci-Fi|Thriller), dislikes: Children of the Corn (1984) (Horror|Thriller), Alien (1992) (Action|Horror|Sci-Fi|Thriller), Being John Malkovich (1999) (Comedy), Father of the Bride Part II (1995) (Comedy), Bram Stoker's Dracula (1992) (Horror|Romance). Whether the user will like the target movie:'Flashdance (1983) (Drama|Romance)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Touch of Evil (1958) (Crime|Film-Noir|Thriller), Bridge on the River Kwai, The (1957) (Drama|War), Chinatown (1974) (Film-Noir|Mystery|Thriller), Hear My Song (1991) (Comedy), Treasure of the Sierra Madre, The (1948) (Adventure), dislikes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Jumanji (1995) (Adventure|Children's|Fantasy), Watership Down (1978) (Animation|Children's|Drama|Fantasy), Battlefield Earth (2000) (Action|Sci-Fi), Scout, The (1994) (Drama). Whether the user will like the target movie:'Blade Runner (1982) (Film-Noir|Sci-Fi)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Horseman on the Roof, The (Hussard sur le toit, Le) (1995) (Drama), Nikita (La Femme Nikita) (1990) (Thriller), Enchanted April (1991) (Drama), Mission: Impossible (1996) (Action|Adventure|Mystery), Addams Family, The (1991) (Comedy), dislikes: Cell, The (2000) (Sci-Fi|Thriller), River Runs Through It, A (1992) (Drama), My Cousin Vinny (1992) (Comedy), Grosse Pointe Blank (1997) (Comedy|Crime), Romy and Michele's High School Reunion (1997) (Comedy). Whether the user will like the target movie:'League of Their Own, A (1992) (Comedy|Drama)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Grifters, The (1990) (Crime|Drama|Film-Noir), Haunting, The (1963) (Horror|Thriller), Mission: Impossible (1996) (Action|Adventure|Mystery), X-Men (2000) (Action|Sci-Fi), Moll Flanders (1996) (Drama), dislikes: Nikita (La Femme Nikita) (1990) (Thriller), Brothers McMullen, The (1995) (Comedy), Fatal Attraction (1987) (Thriller), Legends of the Fall (1994) (Drama|Romance|War|Western), Seven (Se7en) (1995) (Crime|Thriller). Whether the user will like the target movie:'Matrix, The (1999) (Action|Sci-Fi|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Addams Family, The (1991) (Comedy), Licence to Kill (1989) (Action), X-Men (2000) (Action|Sci-Fi), Honey, I Shrunk the Kids (1989) (Adventure|Children's|Comedy|Fantasy|Sci-Fi), dislikes: Snake Eyes (1998) (Action|Crime|Mystery|Thriller), House on Haunted Hill, The (1999) (Horror), Dragonheart (1996) (Action|Adventure|Fantasy), Jumanji (1995) (Adventure|Children's|Fantasy), Supergirl (1984) (Action|Adventure|Fantasy). Whether the user will like the target movie:'Sister Act (1992) (Comedy|Crime)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Haunting, The (1963) (Horror|Thriller), Live and Let Die (1973) (Action), Chinatown (1974) (Film-Noir|Mystery|Thriller), Thunderball (1965) (Action), Payback (1999) (Action|Thriller), dislikes: For Your Eyes Only (1981) (Action), X-Men (2000) (Action|Sci-Fi), Negotiator, The (1998) (Action|Thriller), Where Eagles Dare (1969) (Action|Adventure|War), Desperado (1995) (Action|Romance|Thriller). Whether the user will like the target movie:'Terminator, The (1984) (Action|Sci-Fi|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: English Patient, The (1996) (Drama|Romance|War), Mediterraneo (1991) (Comedy|War), Star Wars: Episode V - The Empire Strikes Back (1980) (Action|Adventure|Drama|Sci-Fi|War), Patton (1970) (Drama|War), M*A*S*H (1970) (Comedy|War), dislikes: Doctor Zhivago (1965) (Drama|Romance|War), Cape Fear (1962) (Film-Noir|Thriller), Koyaanisqatsi (1983) (Documentary|War), Shaggy D.A., The (1976) (Children's|Comedy), Independence Day (ID4) (1996) (Action|Sci-Fi|War). Whether the user will like the target movie:'Battleship Potemkin, The (Bronenosets Potyomkin) (1925) (Drama|War)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Double Life of Veronique, The (La Double Vie de Vronique) (1991) (Drama), Wallace & Gromit: The Best of Aardman Animation (1996) (Animation), Being John Malkovich (1999) (Comedy), Terminator 2: Judgment Day (1991) (Action|Sci-Fi|Thriller), Apollo 13 (1995) (Drama), dislikes: Crumb (1994) (Documentary), This Is Spinal Tap (1984) (Comedy|Drama|Musical), Ponette (1996) (Drama), Relic, The (1997) (Horror), Anna and the King (1999) (Drama|Romance). Whether the user will like the target movie:'Moonstruck (1987) (Comedy)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), X-Men (2000) (Action|Sci-Fi), English Patient, The (1996) (Drama|Romance|War), Shining, The (1980) (Horror), Stand by Me (1986) (Adventure|Comedy|Drama), dislikes: Little Rascals, The (1994) (Children's|Comedy), Creature From the Black Lagoon, The (1954) (Horror), Alien (1992) (Action|Horror|Sci-Fi|Thriller), All Dogs Go to Heaven (1989) (Animation|Children's), Addams Family, The (1991) (Comedy). Whether the user will like the target movie:'Cliffhanger (1993) (Action|Adventure|Crime)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Mission: Impossible (1996) (Action|Adventure|Mystery), Stand by Me (1986) (Adventure|Comedy|Drama), Odd Couple, The (1968) (Comedy), American Graffiti (1973) (Comedy|Drama), Ghost (1990) (Comedy|Romance|Thriller), dislikes: Strictly Ballroom (1992) (Comedy|Romance), Battling Butler (1926) (Comedy), Bachelor Party (1984) (Comedy), Pee-wee's Big Adventure (1985) (Comedy), My Favorite Year (1982) (Comedy). Whether the user will like the target movie:'It Happened One Night (1934) (Comedy)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Courage Under Fire (1996) (Drama|War), Mission: Impossible (1996) (Action|Adventure|Mystery), Needful Things (1993) (Drama|Horror), Replacements, The (2000) (Comedy), dislikes: Multiplicity (1996) (Comedy), Children of the Corn (1984) (Horror|Thriller), Alien (1992) (Action|Horror|Sci-Fi|Thriller), Godzilla 2000 (Gojira ni-sen mireniamu) (1999) (Action|Adventure|Sci-Fi), Hocus Pocus (1993) (Children's|Comedy). Whether the user will like the target movie:'Falling Down (1993) (Action|Drama)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Nikita (La Femme Nikita) (1990) (Thriller), Creature Comforts (1990) (Animation|Comedy), Wings of the Dove, The (1997) (Drama|Romance|Thriller), Bridge on the River Kwai, The (1957) (Drama|War), Spanish Prisoner, The (1997) (Drama|Thriller), dislikes: Snow Day (2000) (Comedy), Arlington Road (1999) (Thriller), Fantasia 2000 (1999) (Animation|Children's|Musical), Nutty Professor II: The Klumps (2000) (Comedy), Jurassic Park (1993) (Action|Adventure|Sci-Fi). Whether the user will like the target movie:'Matrix, The (1999) (Action|Sci-Fi|Thriller)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Touch of Evil (1958) (Crime|Film-Noir|Thriller), For Your Eyes Only (1981) (Action), Courage Under Fire (1996) (Drama|War), Mission: Impossible (1996) (Action|Adventure|Mystery), dislikes: Michael (1996) (Comedy|Romance), Twister (1996) (Action|Adventure|Romance|Thriller), Barb Wire (1996) (Action|Sci-Fi), Nightmare on Elm Street, A (1984) (Horror), Omen, The (1976) (Horror). Whether the user will like the target movie:'National Lampoon's Senior Trip (1995) (Comedy)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Do the Right Thing (1989) (Comedy|Drama), Sliding Doors (1998) (Drama|Romance), Defending Your Life (1991) (Comedy|Romance), Forces of Nature (1999) (Comedy|Romance), She's All That (1999) (Comedy|Romance), dislikes: Strictly Ballroom (1992) (Comedy|Romance), French Kiss (1995) (Comedy|Romance), 'burbs, The (1989) (Comedy), Who's Harry Crumb? (1989) (Comedy), Harry and the Hendersons (1987) (Comedy). Whether the user will like the target movie:'Vacation (1983) (Comedy)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Pawnbroker, The (1965) (Drama), Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Grifters, The (1990) (Crime|Drama|Film-Noir), Courage Under Fire (1996) (Drama|War), Mission: Impossible (1996) (Action|Adventure|Mystery), dislikes: Multiplicity (1996) (Comedy), Needful Things (1993) (Drama|Horror), Replacements, The (2000) (Comedy), Godzilla 2000 (Gojira ni-sen mireniamu) (1999) (Action|Adventure|Sci-Fi), X-Men (2000) (Action|Sci-Fi). Whether the user will like the target movie:'Gone in 60 Seconds (2000) (Action|Crime)'?",
+        "input": " ",
+        "output": "no"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Breaking Away (1979) (Drama), 8 1/2 (1963) (Drama), Chinatown (1974) (Film-Noir|Mystery|Thriller), Murphy's Romance (1985) (Comedy|Romance), My Left Foot (1989) (Drama), dislikes: English Patient, The (1996) (Drama|Romance|War), Cold Comfort Farm (1995) (Comedy), Mummy, The (1932) (Horror|Romance), Spice World (1997) (Comedy|Musical), Sabrina (1995) (Comedy|Romance). Whether the user will like the target movie:'Hud (1963) (Drama|Western)'?",
+        "input": " ",
+        "output": "yes"
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target movie by answering yes or no.user likes: Who Framed Roger Rabbit? (1988) (Adventure|Animation|Film-Noir), Delicatessen (1991) (Comedy|Sci-Fi), Mission: Impossible (1996) (Action|Adventure|Mystery), American Werewolf in London, An (1981) (Horror), Chinatown (1974) (Film-Noir|Mystery|Thriller), dislikes: X-Men (2000) (Action|Sci-Fi), Aladdin (1992) (Animation|Children's|Comedy|Musical), Waiting to Exhale (1995) (Comedy|Drama), Jerry Maguire (1996) (Drama|Romance), Stuart Little (1999) (Children's|Comedy). Whether the user will like the target movie:'Patriot, The (2000) (Action|Drama|War)'?",
+        "input": " ",
+        "output": "no"
+    }
+]

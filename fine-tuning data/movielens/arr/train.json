@@ -1,0 +1,642 @@
+[
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: U Turn (1997),Action",
+        "input": " ",
+        "output": "category: Action|Crime|Mystery"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Spellbound (1945),Mystery",
+        "input": " ",
+        "output": "category: Mystery|Romance|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Copycat (1995),Crime",
+        "input": " ",
+        "output": "category: Crime|Drama|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Dances with Wolves (1990),Adventure|Drama",
+        "input": " ",
+        "output": "category: Adventure|Drama|Western"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Corrina, Corrina (1994),Comedy|Drama",
+        "input": " ",
+        "output": "category: Comedy|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Fire Down Below (1997),Action|Drama",
+        "input": " ",
+        "output": "category: Action|Drama|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: F/X (1986),Action",
+        "input": " ",
+        "output": "category: Action|Crime|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Curse of the Puppet Master (1998),Horror|Sci-Fi",
+        "input": " ",
+        "output": "category: Horror|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Bug's Life, A (1998),Animation",
+        "input": " ",
+        "output": "category: Animation|Children's|Comedy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Aladdin and the King of Thieves (1996),Animation",
+        "input": " ",
+        "output": "category: Animation|Children's|Comedy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Maverick (1994),Action",
+        "input": " ",
+        "output": "category: Action|Comedy|Western"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Other Sister, The (1999),Comedy",
+        "input": " ",
+        "output": "category: Comedy|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: 7th Voyage of Sinbad, The (1958),Action",
+        "input": " ",
+        "output": "category: Action|Adventure|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Damsel in Distress, A (1937),Comedy",
+        "input": " ",
+        "output": "category: Comedy|Musical|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Bronco Billy (1980),Adventure|Drama",
+        "input": " ",
+        "output": "category: Adventure|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Snow White and the Seven Dwarfs (1937),Animation|Children's",
+        "input": " ",
+        "output": "category: Animation|Children's|Musical"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Terminator, The (1984),Action|Sci-Fi",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: English Patient, The (1996),Drama",
+        "input": " ",
+        "output": "category: Drama|Romance|War"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Blues Brothers 2000 (1998),Action",
+        "input": " ",
+        "output": "category: Action|Comedy|Musical"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: King Kong (1976),Action",
+        "input": " ",
+        "output": "category: Action|Adventure|Horror"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Longest Day, The (1962),Action|Drama",
+        "input": " ",
+        "output": "category: Action|Drama|War"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Get Carter (2000),Action|Drama",
+        "input": " ",
+        "output": "category: Action|Drama|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Mister Roberts (1955),Comedy",
+        "input": " ",
+        "output": "category: Comedy|Drama|War"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Kazaam (1996),Children's|Comedy",
+        "input": " ",
+        "output": "category: Children's|Comedy|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Limey, The (1999),Action",
+        "input": " ",
+        "output": "category: Action|Crime|Drama"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Solo (1996),Action|Sci-Fi",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Six-String Samurai (1998),Action|Adventure",
+        "input": " ",
+        "output": "category: Action|Adventure|Sci-Fi"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Toy Story 2 (1999),Animation",
+        "input": " ",
+        "output": "category: Animation|Children's|Comedy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Johnny Mnemonic (1995),Action|Sci-Fi",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Goonies, The (1985),Adventure",
+        "input": " ",
+        "output": "category: Adventure|Children's|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Return of Jafar, The (1993),Animation|Children's",
+        "input": " ",
+        "output": "category: Animation|Children's|Musical"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: American Tail: Fievel Goes West, An (1991),Animation|Children's",
+        "input": " ",
+        "output": "category: Animation|Children's|Comedy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Santa Claus: The Movie (1985),Adventure",
+        "input": " ",
+        "output": "category: Adventure|Children's|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Independence Day (ID4) (1996),Action",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|War"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: What Happened Was... (1994),Comedy|Drama",
+        "input": " ",
+        "output": "category: Comedy|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Grifters, The (1990),Crime|Drama",
+        "input": " ",
+        "output": "category: Crime|Drama|Film-Noir"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Open Your Eyes (Abre los ojos) (1997),Drama",
+        "input": " ",
+        "output": "category: Drama|Romance|Sci-Fi"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Jumanji (1995),Adventure",
+        "input": " ",
+        "output": "category: Adventure|Children's|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Thirteenth Floor, The (1999),Drama|Sci-Fi",
+        "input": " ",
+        "output": "category: Drama|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Witness (1985),Drama|Romance",
+        "input": " ",
+        "output": "category: Drama|Romance|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Theory of Flight, The (1998),Comedy",
+        "input": " ",
+        "output": "category: Comedy|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Gattaca (1997),Drama|Sci-Fi",
+        "input": " ",
+        "output": "category: Drama|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Terminator 2: Judgment Day (1991),Action",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Outbreak (1995),Action",
+        "input": " ",
+        "output": "category: Action|Drama|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: My Son the Fanatic (1998),Comedy|Drama",
+        "input": " ",
+        "output": "category: Comedy|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Amateur (1994),Crime|Drama",
+        "input": " ",
+        "output": "category: Crime|Drama|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Absent Minded Professor, The (1961),Children's",
+        "input": " ",
+        "output": "category: Children's|Comedy|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Once Upon a Time in America (1984),Crime|Drama",
+        "input": " ",
+        "output": "category: Crime|Drama|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Alien Nation (1988),Crime|Drama",
+        "input": " ",
+        "output": "category: Crime|Drama|Sci-Fi"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Apple Dumpling Gang, The (1975),Children's|Comedy",
+        "input": " ",
+        "output": "category: Children's|Comedy|Western"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Boat, The (Das Boot) (1981),Action",
+        "input": " ",
+        "output": "category: Action|Drama|War"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: I Still Know What You Did Last Summer (1998),Horror",
+        "input": " ",
+        "output": "category: Horror|Mystery|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Jacob's Ladder (1990),Horror",
+        "input": " ",
+        "output": "category: Horror|Mystery|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: 13th Warrior, The (1999),Action|Horror",
+        "input": " ",
+        "output": "category: Action|Horror|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Crimson Pirate, The (1952),Adventure|Comedy",
+        "input": " ",
+        "output": "category: Adventure|Comedy|Sci-Fi"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Wings (1927),Drama|Romance",
+        "input": " ",
+        "output": "category: Drama|Romance|War"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Daylight (1996),Action",
+        "input": " ",
+        "output": "category: Action|Adventure|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Deep Blue Sea (1999),Action|Sci-Fi",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Lost in Space (1998),Action",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991),Action|Children's",
+        "input": " ",
+        "output": "category: Action|Children's|Fantasy"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: King Kong (1933),Action|Adventure",
+        "input": " ",
+        "output": "category: Action|Adventure|Horror"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Matrix, The (1999),Action|Sci-Fi",
+        "input": " ",
+        "output": "category: Action|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: Retro Puppetmaster (1999),Horror",
+        "input": " ",
+        "output": "category: Horror|Sci-Fi|Thriller"
+    },
+    {
+        "instruction": "Given a movie title and category, Please add the category to three words .title and category: About Last Night... (1986),Comedy",
+        "input": " ",
+        "output": "category: Comedy|Drama|Romance"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Toys (1992)",
+        "input": " ",
+        "output": "director:Barry Levinson, actor:Robin Williams|Michael Gambon, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Prizzi's Honor (1985)",
+        "input": " ",
+        "output": "director:John Huston, actor:Jack Nicholson|Kathleen Turner, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: James and the Giant Peach (1996)",
+        "input": " ",
+        "output": "director:Henry Selick, actor:Paul Terry|Joanna Lumley, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Supergirl (1984)",
+        "input": " ",
+        "output": "director:Jeannot Szwarc, actor:Helen Slater|Faye Dunaway, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Anaconda (1997)",
+        "input": " ",
+        "output": "director:Luis Llosa, actor:Jon Voight|Jennifer Lopez, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Crow, The (1994)",
+        "input": " ",
+        "output": "director:Alex Proyas, actor:Brandon Lee|Rochelle Davis, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Gattaca (1997)",
+        "input": " ",
+        "output": "director:Andrew Niccol, actor:Ethan Hawke|Uma Thurman, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Out of Sight (1998)",
+        "input": " ",
+        "output": "director:Steven Soderbergh, actor:George Clooney|Jennifer Lopez, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Glory (1989)",
+        "input": " ",
+        "output": "director:Edward Zwick, actor:Matthew Broderick|Denzel Washington, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Smilla's Sense of Snow (1997)",
+        "input": " ",
+        "output": "director:Bille August, actor:Julia Ormond|Gabriel Byrne, country:Germany, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Dead Presidents (1995)",
+        "input": " ",
+        "output": "director:Albert Hughes, Allen Hughes, actor:Larenz Tate|Keith David, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Jungle Book, The (1994)",
+        "input": " ",
+        "output": "director:Stephen Sommers, actor:Jason Scott Lee|Cary Elwes, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Good Morning, Vietnam (1987)",
+        "input": " ",
+        "output": "director:Barry Levinson, actor:Robin Williams|Forest Whitaker, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Star Trek: Generations (1994)",
+        "input": " ",
+        "output": "director:David Carson, actor:Patrick Stewart|Jonathan Frakes, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: eXistenZ (1999)",
+        "input": " ",
+        "output": "director:David Cronenberg, actor:Jennifer Jason Leigh|Jude Law, country:Canada, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Blue Lagoon, The (1980)",
+        "input": " ",
+        "output": "director:Randal Kleiser, actor:Brooke Shields|Christopher Atkins, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Desperate Measures (1998)",
+        "input": " ",
+        "output": "director:Barbet Schroeder, actor:Michael Keaton|Andy Garcia, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Return of Jafar, The (1993)",
+        "input": " ",
+        "output": "director:Tad Stones, Alan Zaslove, actor:Scott Weinger|Linda Larkin, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Dark City (1998)",
+        "input": " ",
+        "output": "director:Alex Proyas, actor:Rufus Sewell|Kiefer Sutherland, country:Australia, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Hope Floats (1998)",
+        "input": " ",
+        "output": "director:Forest Whitaker, actor:Sandra Bullock|Harry Connick Jr., country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Herbie Goes Bananas (1980)",
+        "input": " ",
+        "output": "director:Vincent McEveety, actor:Cloris Leachman|Charles Martin Smith, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Alien Nation (1988)",
+        "input": " ",
+        "output": "director:Graham Baker, actor:James Caan|Mandy Patinkin, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Get Shorty (1995)",
+        "input": " ",
+        "output": "director:Barry Sonnenfeld, actor:John Travolta|Gene Hackman, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: F/X (1986)",
+        "input": " ",
+        "output": "director:Robert Mandel, actor:Bryan Brown|Brian Dennehy, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: From Here to Eternity (1953)",
+        "input": " ",
+        "output": "director:Fred Zinnemann, actor:Burt Lancaster|Montgomery Clift, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Renaissance Man (1994)",
+        "input": " ",
+        "output": "director:Penny Marshall, actor:Danny DeVito|Gregory Hines, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Condition Red (1995)",
+        "input": " ",
+        "output": "director:Mika Kaurism\u00e4ki, actor:James Russo|Cynda Williams, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Crying Game, The (1992)",
+        "input": " ",
+        "output": "director:Neil Jordan, actor:Stephen Rea|Jaye Davidson, country:UK, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Teenage Mutant Ninja Turtles III (1993)",
+        "input": " ",
+        "output": "director:Stuart Gillard, actor:Elias Koteas|Paige Turco, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Outbreak (1995)",
+        "input": " ",
+        "output": "director:Wolfgang Petersen, actor:Dustin Hoffman|Rene Russo, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Longest Day, The (1962)",
+        "input": " ",
+        "output": "director:Ken Annakin, Andrew Marton, actor:John Wayne|Robert Ryan, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: NeverEnding Story III, The (1994)",
+        "input": " ",
+        "output": "director:Peter MacDonald, actor:Jason James Richter|Melody Kay, country:Germany, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Deep Blue Sea (1999)",
+        "input": " ",
+        "output": "director:Renny Harlin, actor:Thomas Jane|Saffron Burrows, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Colonel Chabert, Le (1994)",
+        "input": " ",
+        "output": "director:Yves Angelo, actor:G\u00e9rard Depardieu|Fanny Ardant, country:France, language:French"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Star Trek V: The Final Frontier (1989)",
+        "input": " ",
+        "output": "director:William Shatner, actor:William Shatner|Leonard Nimoy, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: 7th Voyage of Sinbad, The (1958)",
+        "input": " ",
+        "output": "director:Nathan Juran, actor:Kerwin Mathews|Kathryn Grant, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: U Turn (1997)",
+        "input": " ",
+        "output": "director:Oliver Stone, actor:Sean Penn|Jennifer Lopez, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Wings of Desire (Der Himmel \u00fcber Berlin) (1987)",
+        "input": " ",
+        "output": "director:Wim Wenders, actor:Bruno Ganz|Solveig Dommartin, country:Germany, language:German"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Goodbye, Lover (1999)",
+        "input": " ",
+        "output": "director:Roland Joff\u00e9, actor:Patricia Arquette|Dermot Mulroney, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Desperado (1995)",
+        "input": " ",
+        "output": "director:Robert Rodriguez, actor:Antonio Banderas|Salma Hayek, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Dark Crystal, The (1982)",
+        "input": " ",
+        "output": "director:Jim Henson, Frank Oz, actor:Jim Henson|Kathryn Mullen, country:UK, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Fargo (1996)",
+        "input": " ",
+        "output": "director:Joel Coen, Ethan Coen, actor:William H. Macy|Steve Buscemi, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Chinatown (1974)",
+        "input": " ",
+        "output": "director:Roman Polanski, actor:Jack Nicholson|Faye Dunaway, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Theory of Flight, The (1998)",
+        "input": " ",
+        "output": "director:Paul Greengrass, actor:Kenneth Branagh|Helena Bonham Carter, country:UK, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Ride with the Devil (1999)",
+        "input": " ",
+        "output": "director:Ang Lee, actor:Tobey Maguire|Skeet Ulrich, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Aladdin and the King of Thieves (1996)",
+        "input": " ",
+        "output": "director:Tad Stones, actor:Scott Weinger|Robin Williams, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Puppet Master II (1990)",
+        "input": " ",
+        "output": "director:David Allen, actor:Elizabeth Maclellan|Collin Bernsen, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Heat (1995)",
+        "input": " ",
+        "output": "director:Michael Mann, actor:Al Pacino|Robert De Niro, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Superman (1978)",
+        "input": " ",
+        "output": "director:Richard Donner, actor:Christopher Reeve|Margot Kidder, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Puppet Master (1989)",
+        "input": " ",
+        "output": "director:David Schmoeller, actor:Paul Le Mat|William Hickey, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: F/X 2 (1992)",
+        "input": " ",
+        "output": "director:Richard Franklin, actor:Bryan Brown|Brian Dennehy, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: King Kong (1976)",
+        "input": " ",
+        "output": "director:John Guillermin, actor:Jeff Bridges|Jessica Lange, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: So I Married an Axe Murderer (1993)",
+        "input": " ",
+        "output": "director:Thomas Schlamme, actor:Mike Myers|Nancy Travis, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Hostile Intentions (1994)",
+        "input": " ",
+        "output": "director:Catherine Cyran, actor:Tia Carrere|Randy Travis, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Predator 2 (1990)",
+        "input": " ",
+        "output": "director:Stephen Hopkins, actor:Danny Glover|Gary Busey, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: American Psycho (2000)",
+        "input": " ",
+        "output": "director:Mary Harron, actor:Christian Bale|Justin Theroux, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Legend (1985)",
+        "input": " ",
+        "output": "director:Ridley Scott, actor:Tom Cruise|Mia Sara, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Day of the Beast, The (El D\u00eda de la bestia) (1995)",
+        "input": " ",
+        "output": "director:\u00c1lex de la Iglesia, actor:\u00c1lex Angulo|Armando De Razza, country:Spain, language:Spanish"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Sphere (1998)",
+        "input": " ",
+        "output": "director:Barry Levinson, actor:Dustin Hoffman|Sharon Stone, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Faster Pussycat! Kill! Kill! (1965)",
+        "input": " ",
+        "output": "director:Russ Meyer, actor:Tura Satana|Haji, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Labyrinth (1986)",
+        "input": " ",
+        "output": "director:Jim Henson, actor:David Bowie|Jennifer Connelly, country:UK, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Chungking Express (1994)",
+        "input": " ",
+        "output": "director:Wong Kar-wai, actor:Brigitte Lin|Takeshi Kaneshiro, country:China, language:Cantonese, Mandarin, English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Terminator, The (1984)",
+        "input": " ",
+        "output": "director:James Cameron, actor:Arnold Schwarzenegger|Michael Biehn, country:USA, language:English"
+    },
+    {
+        "instruction": "Given a movie title and years, Please output its director, actor, country, language. title and years: Other Sister, The (1999)",
+        "input": " ",
+        "output": "director:Garry Marshall, actor:Juliette Lewis|Diane Keaton, country:USA, language:English"
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Woman in the Nineteenth Century (Dover Thrift Editions)",
+        "input": " ",
+        "output": "Genres: Feminism, Philosophy, History."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: After Hamelin",
+        "input": " ",
+        "output": "Genres: Fantasy, Adventure, Retelling."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Fire and Ice (Couples No. 2)",
+        "input": " ",
+        "output": "Genres: Romance, Drama, Relationships."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Josephine and the Soldier (An Avon True Romance)",
+        "input": " ",
+        "output": "Genres: Romance, Historical, Young Adult."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Le cul de Judas",
+        "input": " ",
+        "output": "Genres: Autobiography, War, Literature."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Jackpot",
+        "input": " ",
+        "output": "Genres: Thriller, Crime, Suspense."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Forbidden Land (Witches of Eileanan)",
+        "input": " ",
+        "output": "Genres: Fantasy, Adventure, Magic."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Diabetes Problem Solver : Quick Answers to Your Questions about Treatment and Self-Care",
+        "input": " ",
+        "output": "Genres: Health, Medical, Self-Care."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Tooth Fairy",
+        "input": " ",
+        "output": "Genres: Horror, Fantasy, Supernatural."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Agatha",
+        "input": " ",
+        "output": "Genres: Mystery, Drama, Literature."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Skeleton Canyon: A Joanna Brady Mystery",
+        "input": " ",
+        "output": "Genres: Mystery, Crime, Thriller."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Five Photos of My Wife",
+        "input": " ",
+        "output": "Genres: Drama, Literature, Relationships."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: World of Difference",
+        "input": " ",
+        "output": "Genres: Science Fiction, Adventure, Exploration."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Larkspur",
+        "input": " ",
+        "output": "Genres: Romance, Historical, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Official Book of Thumb Wrestling",
+        "input": " ",
+        "output": "Genres: Humor, Games, Entertainment."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Star Trek Log 9",
+        "input": " ",
+        "output": "Genres: Science Fiction, Adventure, Space."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Million - Dollar Marriage (Whirlwind Weddings) (Romance , No 3518)",
+        "input": " ",
+        "output": "Genres: Romance, Contemporary, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Casanova: The Man Who Really Loved Women",
+        "input": " ",
+        "output": "Genres: Biography, Romance, History."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Love Notes",
+        "input": " ",
+        "output": "Genres: Romance, Poetry, Relationships."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Two Gentlemen of Verona 3e",
+        "input": " ",
+        "output": "Genres: Drama, Romance, Comedy."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: A Foot in the Door: The Reminiscences of Lucile McDonald",
+        "input": " ",
+        "output": "Genres: Biography, Memoir, History."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Plains of Passage (Earth's Children)",
+        "input": " ",
+        "output": "Genres: Historical, Adventure, Prehistoric."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Fury",
+        "input": " ",
+        "output": "Genres: Thriller, Suspense, Crime."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Socks for Supper",
+        "input": " ",
+        "output": "Genres: Children's, Family, Humor."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Is Heart Surgery Necessary?: What Your Doctor Won't Tell You",
+        "input": " ",
+        "output": "Genres: Medical, Health, Advice."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: God I Listened",
+        "input": " ",
+        "output": "Genres: Religion, Spirituality, Inspiration."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Edgewater",
+        "input": " ",
+        "output": "Genres: Mystery, Drama, Gothic."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Ideals Mother's Day, 1988",
+        "input": " ",
+        "output": "Genres: Family, Celebration, Inspiration."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Comics Prose: Short Stories by Comics Writers",
+        "input": " ",
+        "output": "Genres: Comics, Anthology, Fiction."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Fanny: Being the True History of the Adventures of Fanny Hackabout-Jones",
+        "input": " ",
+        "output": "Genres: Historical, Adventure, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Frontier Jews",
+        "input": " ",
+        "output": "Genres: History, Religion, Culture."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Trapped in the Slickrock Canyon (Skurzynski, Gloria. Mountain West Adventure.)",
+        "input": " ",
+        "output": "Genres: Adventure, Young Adult, Survival."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Prize Stories 1990: The O. Henry Awards (Prize Stories: The O. Henry Awards (Paperback))",
+        "input": " ",
+        "output": "Genres: Anthology, Literature, Fiction."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Friendship With God: An Uncommon Dialogue",
+        "input": " ",
+        "output": "Genres: Religion, Spirituality, Dialogue."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Right Words at the Right Time",
+        "input": " ",
+        "output": "Genres: Self-Help, Advice, Inspiration."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Better Homes and Gardens After Work Cookbook",
+        "input": " ",
+        "output": "Genres: Cooking, Quick, Family."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Hank & Chloe",
+        "input": " ",
+        "output": "Genres: Romance, Drama, Contemporary."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Legacy : A Biography of Moses and Walter Annenberg",
+        "input": " ",
+        "output": "Genres: Biography, History, Journalism."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Focusing",
+        "input": " ",
+        "output": "Genres: Psychology, Self-Help, Therapy."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Venetian Playboy's Bride (The Counts of Calvani)",
+        "input": " ",
+        "output": "Genres: Romance, Contemporary, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: GOOD EARTH",
+        "input": " ",
+        "output": "Genres: Historical, Drama, Family."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Janet and Jackie: The Story of a Mother and Her Daughter, Jacqueline Kennedy Onassis",
+        "input": " ",
+        "output": "Genres: Biography, History, Family."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Transformation",
+        "input": " ",
+        "output": "Genres: Fantasy, Magic, Adventure."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Guilty by Reason of Insanity: A Psychiatrist Explores the Minds of Killers",
+        "input": " ",
+        "output": "Genres: Psychology, True Crime, Forensics."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Hawke's Pride",
+        "input": " ",
+        "output": "Genres: Romance, Western, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Treasure at the Heart of the Tanglewood",
+        "input": " ",
+        "output": "Genres: Fantasy, Adventure, Magic."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Night Thunder",
+        "input": " ",
+        "output": "Genres: Romance, Western, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Das Haus am Flammensee",
+        "input": " ",
+        "output": "Genres: Drama, Historical, Family."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Heart Reader Of Franklin High",
+        "input": " ",
+        "output": "Genres: Young Adult, Inspirational, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Jack of Hearts",
+        "input": " ",
+        "output": "Genres: Mystery, Thriller, Crime."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Lizard",
+        "input": " ",
+        "output": "Genres: Fiction, Coming-of-Age, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: NOBODYS GIRL",
+        "input": " ",
+        "output": "Genres: Romance, Drama, Fiction."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Survivor",
+        "input": " ",
+        "output": "Genres: Thriller, Psychological, Suspense."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The HEAVENLY HORSE",
+        "input": " ",
+        "output": "Genres: Fantasy, Adventure, Mythology."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Bruce and Stan's Guide to Studying Your Bible: A User Friendly Approach (Bruce & Stan's Pocket Guides)",
+        "input": " ",
+        "output": "Genres: Religion, Spirituality, Self-Help."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Land of Promise (Ellis Island No 2)",
+        "input": " ",
+        "output": "Genres: Historical, Family, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Héros et tombes",
+        "input": " ",
+        "output": "Genres: Historical, Literature, Drama."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Toward Commitment: A Dialogue About Marriage",
+        "input": " ",
+        "output": "Genres: Relationships, Marriage, Dialogue."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: A Shred of Evidence",
+        "input": " ",
+        "output": "Genres: Mystery, Thriller, Crime."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: Nightmare Time (Worldwide Mystery)",
+        "input": " ",
+        "output": "Genres: Mystery, Thriller, Horror."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Moment She Was Gone: A Novel",
+        "input": " ",
+        "output": "Genres: Mystery, Drama, Psychological."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Berenstain Bears and the Sitter (Berenstain Bears First Time Chapter Books (Paperback))",
+        "input": " ",
+        "output": "Genres: Children's, Family, Adventure."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Bennie Arnoldo Files (Five Star First Edition Mystery Series)",
+        "input": " ",
+        "output": "Genres: Mystery, Thriller, Crime."
+    },
+    {
+        "instruction": "Given a book title, please generate its genres in three words. Title: The Secret Agent",
+        "input": " ",
+        "output": "Genres: Spy, Thriller, Literature."
+    }
+]

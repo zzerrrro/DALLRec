@@ -1,0 +1,322 @@
+[
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Irish Fairy Tales (Piccolo Original) (1973) written by Sinead De Valera, The \\ Crystal Maze\\\" Puzzle Book 2\" (1995) written by Peter Arnold, The Search for the Golden Puffin (Puffin Jokes, Games, Puzzles) (1991) written by Gyles Brandreth.user dislikes: Deadly Shadow(1985) written by Richard Brightfield, Double Crossing Duo or the Year of My Enthusiasms(1990) written by Terry Edge, El Autobus Magico Muestra Y Cuenta: UN Libro Sobre Arqueologia (Autobus Magico)(1997) written by Joanna Cole.Whether the user will like the target book: Emlyn's Moon (A Magnet Book)(1973) written by Jenny Nimmo?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Pagan Babies (2002) written by Elmore Leonard, Angry Men, Passive Men: Understanding the Roots of Men's Anger and How to Move Beyond It (1994) written by Marvin Allen, Prime Cut (2000) written by Diane Mott Davidson.user dislikes: The Homeschooling Book of Answers : The 88 Most Important Questions Answered by Homeschooling's Most Respected Voices(1998) written by LINDA DOBSON, '48(1998) written by James Herbert, What Makes a Man Feel Loved(1998) written by Bob Barnes.Whether the user will like the target book: The Basic Steps to Successful Homeschooling(1998) written by Vicki A. Brady?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Own Goals (2002) written by Phil Andrews, Quiet War of Rebecca Sheldon (2000) written by Kathleen Rowntree, Broke Through Britain: One Man's Penniless Odyssey (1999) written by Peter Mortimer.user dislikes: Dancing In The Dark(1999) written by Maureen Lee, The Island of the Day Before(1996) written by Umberto Eco, Home Life Book Four(1990) written by Alice Thomas Ellis, Foreign Affairs(2003) written by Patricia Scanlan, Marriage of Meggotta(0) written by Ellis Peters, Memoirs of a Geisha Uk(0) written by Arthur Golden.Whether the user will like the target book: Blackberry Wine(1990) written by Joanne Harris?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Guia del Masaje Erotico (1992) written by Wu Yu-Tang, La ley del amor (1997) written by Laura Esquivel, The Color Purple (1990) written by Alice Walker, El misteri de Berl\u00c3\u0083\u00c2\u00adn (Col\u00c3\u0082\u00c2\u00a8lecci\u00c3\u0083\u00c2\u00b3 cl\u00c3\u0083\u00c2\u00a0ssica) (1997) written by Jordi Mata, Solaris (french) (2002) written by Stanislav Lem, La hermandad (2001) written by John Grisham.user dislikes: A Los Pies De Omphalos(2002) written by Henri Raynal, Cien A\u00c3\u0083\u00c2\u00b1os de Soledad/ 100 Years of Solitude (Nueva Austral Series, Vol. 100)(1991) written by Gabriel Garcia Marquez, LA Preguantas De LA Vida(2000) written by Fernan Savater, Plaers(1989) written by Anna Llaurad\u00c3\u0083\u00c2\u00b3.Whether the user will like the target book: Hem nedat a l'estany amb lluna plena (Columna jove)(1990) written by Raimon Esplugafreda?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Pigs in Heaven (1994) written by Barbara Kingsolver, Sula (2002) written by Toni Morrison, Epitaph for a Peach: Four Seasons on My Family Farm (1996) written by David M. Masumoto.user dislikes: None.Whether the user will like the target book: The Bean Trees(1994) written by Barbara Kingsolver?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:When Food Is Love: Exploring the Relationship Between Eating and Intimacy (1993) written by Geneen Roth, Dirk Gently's Holistic Detective Agency (1988) written by Douglas Adams, A KNIGHT IN SHINING ARMOR PROMOTION (1996) written by Jude Deveraux.user dislikes: The Anodyne Necklace(1990) written by Martha Grimes, Sick Puppy(2001) written by Carl Hiaasen.Whether the user will like the target book: Breaking Free from Compulsive Eating(1988) written by Geneen Roth?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Don't Let's Go to the Dogs Tonight : An African Childhood (2003) written by ALEXANDRA FULLER.user dislikes: Scarlet Feather(2002) written by Maeve Binchy, The Sopranos: A Novel(2000) written by Alan Warner, Great Possessions: An Amish Farmer's Journal(1991) written by David Kline.Whether the user will like the target book: The Fig Eater : A Novel(2000) written by Jody Shields?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Memoirs of a Geisha (1999) written by Arthur Golden.user dislikes: Desperation(1996) written by Stephen King, Pearl Harbor Movie Tie-In(2001) written by Randall Wallace, Black Beauty (Book and Charm)(1998) written by Anna Sewell, Anne Frank's Tales from the Secret Annex(1994) written by Anne Frank.Whether the user will like the target book: Why Do They Hate Me? : Young Lives Caught In War And Conflict(1998) written by Laurel Holliday?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Three Fates (2004) written by Nora Roberts, The Beach House (2003) written by James Patterson, Daddy's Little Girl (2003) written by Mary Higgins Clark, King Con : A Novel (1998) written by Stephen J. Cannell, The Joy Luck Club (1994) written by Amy Tan.user dislikes: None.Whether the user will like the target book: Fire Ice: A Novel from the Numa Files (Kurt Austin Adventures (Paperback))(2004) written by Clive Cussler?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Endlich Nichtraucher. (1992) written by Allen Carr.user dislikes: Im Schatten der Lilie. Die Erinnerungen der Eleonore von Aquitanien.(2002) written by Patrice Leavold, Die Teufelin. Roman.(1989) written by Fay Weldon, Ein Liebhaber zuviel ist noch zu wenig.(2000) written by Gaby Hauptmann.Whether the user will like the target book: East, West(1989) written by Salman Rushdie?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:A Circle of Quiet (1984) written by Madeleine L'Engle, The Devil in the White City : Murder, Magic, and Madness at the Fair That Changed America (Illinois) (2003) written by ERIK LARSON, Look Homeward: A Life of Thomas Wolfe (1989) written by David Herbert Donald, The Autograph Man : A Novel (2002) written by ZADIE SMITH, Saints and Villains (1998) written by Denise Giardina.user dislikes: Memphis Tennessee Garrison: The Remarkable Story of a Black Appalachian Woman (Ohio University Press Series in Ethnicity and Gender in Appalachia)(2001) written by Memphis Tennessee Garrison, Final Witness : A Novel(2002) written by SIMON TOLKIEN, The Nanny Diaries: A Novel(2002) written by Emma McLaughlin, The Piano Tuner(2002) written by Daniel Mason, Blackout(2000) written by John J. Nance.Whether the user will like the target book: Man of the Hour(2003) written by Peter Blauner?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: Whose Death Is It, Anyway(1997) written by Elizabeth Daniels Squire, Memory Can Be Murder(1995) written by Elizabeth Daniels Squire, Is There a Dead Man in the House?(1998) written by Elizabeth Daniels Squire.Whether the user will like the target book: A Small Death in Lisbon(1998) written by Robert Wilson?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Hands Up, Miss Seeton (1992) written by Hamilton Crane, The Noisy Passage: Baby Boomers Do Menopause (1997) written by Marie Evans, Weep No More My Lady (1993) written by Mary Higgins Clark.user dislikes: The Cat Who Ate Danish Modern (Cat Who... (Paperback))(1990) written by Lilian Jackson Braun, The Lottery Winner : Alvirah And Willy Stories(1995) written by Mary Higgins Clark, So Faux, So Good (Den of Antiquity)(1998) written by Tamar Myers, Final Target(2002) written by Iris Johansen.Whether the user will like the target book: Moment of Truth(1997) written by Lisa Scottoline?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:LAST CHANTS : A Willa Jansson Mystery (1996) written by Lia Matera.user dislikes: The Warrior's Tale(1994) written by Allan Cole, Chestnut Mare, Beware(1996) written by Jody Jaffe, Timescape(1996) written by Gregory Benford, Cup of Clay (Taliswoman, Book 1)(1991) written by Carole Nelson. Douglas, The Shortest Day: Murder at the Revels (Homer Kelly Mysteries (Paperback))(1996) written by Jane Langton, Death by Sheer Torture(1995) written by Robert Barnard, Absolution by Murder: A Sister Fidelma Mystery (Sister Fidelma Mysteries (Paperback))(1997) written by Peter Tremayne, The Bessie Blue Killer: A Hobart Lindsey/Marvia Plum Mystery(1994) written by Richard A. Lupoff, Too Rich: The Family Secrets of Doris Duke(1995) written by Pony Duke.Whether the user will like the target book: Death in Holy Orders : An Adam Dalgliesh Mystery(1994) written by P.D. JAMES?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:True Friends (Christy Miller) (1999) written by Robin Jones Gunn, Island Dreamer (Christy Miller) (1999) written by Robin Jones Gunn, A Heart Full of Hope (Christy Miller) (1999) written by Robin Jones Gunn, Starry Night (Christy Miller) (1999) written by Robin Jones Gunn.user dislikes: None.Whether the user will like the target book: And Then There Were None : A Novel(1999) written by Agatha Christie?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Irritable Heart: The Medical Mystery of the Gulf War (2001) written by Jeff Wheelwright, Scaling : Why Is Animal Size so Important? (1984) written by Knut Schmidt-Nielsen, Hope's End (2002) written by Stephen Chambers.user dislikes: The Malaria Capers : More Tales of Parasites and  People, Research and Reality(1993) written by Robert S. Desowitz, Bright Air, Brilliant Fire: On the Matter of the Mind(1993) written by Gerald M. Edelman, Who Gave Pinta to the Santa Maria?: Torrid Diseases in a Temperate World(1998) written by Robert S. Desowitz, The Secret of Life: Redesigning the Living World(1993) written by Joseph Levine, New Hope for People with Bipolar Disorder : Your Friendly, Authoritative Guide to the Latest in Traditional and Complementary Solutions, Including: Pr ...  Depression &amp; Manic-Depressive ... (New Hope)(2000) written by Jan Fawcett, The Best American Science &amp; Nature Writing 2000(2000) written by David Quammen, The Lexus and the Olive Tree: Understanding Globalization(2000) written by Thomas L. Friedman.Whether the user will like the target book: A Science Odyssey: 100 Years of Discovery (PBS Series)(1993) written by Charles Flowers?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Gone With the Witch (Teen Witch, No 3) (1989) written by Megan Barnes, Kris's War (1992) written by Carol Matas.user dislikes: Anne of Avonlea (Anne of Green Gables Novels (Paperback))(1984) written by L.M. MONTGOMERY, The Giver(1994) written by Lois Lowry, Please, Please, Please (The Friendship Ring Series)(1998) written by Rachel Vail, Across the Wide and Lonesome Prairie: The Oregon Trail Diary of Hattie Campbell, 1847 (Dear America)(1997) written by Kristiana Gregory, Stuart Little(1974) written by E. B. White, December Stillness(1990) written by Mary Downing Hahn, Haveli (Laurel Leaf Books)(1995) written by SUZANNE FISHER STAPLES, Charlotte's Web (Trophy Newbery)(1974) written by E. B. White.Whether the user will like the target book: If You Only Knew (The Friendship Ring Series)(1990) written by Rachel Vail?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Lust Lizard of Melancholy Cove (2000) written by Christopher Moore, Eat Your Way to a Healthy Heart (1999) written by Liz Applegate, The No. 1 Ladies' Detective Agency (Today Show Book Club #8) (2003) written by Alexander McCall Smith, Stolen Lives : Twenty Years in a Desert Jail (Oprah's Book Club (Paperback)) (2002) written by Malika Oufkir.user dislikes: The Temple of My Familiar(1990) written by Alice Walker, Red Rabbit(2003) written by Tom Clancy, Hornet's Nest(1997) written by Patricia Daniels Cornwell, TOO DEEP FOR TEARS(1990) written by Nancy Davis, GIVER, THE (Yearling Books (Paperback))(1999) written by LOIS LOWRY, Sea of Fire (Op-Center Series, Volume 10)(2003) written by Jeff Rovin.Whether the user will like the target book: The Mammoth Hunters (Earth's Children (Paperback))(2003) written by JEAN M. AUEL?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Hannibal (1999) written by Thomas Harris, The Celluloid Closet: Homosexuality in the Movies (1987) written by Vito Russo.user dislikes: A Joseph Cornell Album(2002) written by Dore Ashton, The blood of others(1964) written by Simone de Beauvoir, Olympus(1998) written by Martin H. Greenberg, The Witches of Eastwick(1995) written by John Updike, The Shopping Bag: Portable Art(1986) written by Stephen C. Wagner, Waking the Moon(1996) written by Elizabeth Hand, Brothers Karamazov (Classics S.)(1982) written by Fyodor Dostoyevsky, Invaders!(1993) written by Jack Dann.Whether the user will like the target book: Red Dragon(1996) written by Thomas Harris?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Montana Maverick's: Nighthawk's Child (2001) written by Charles Hampden-Turner, The Diary of Ellen Rimbauer: My Life at Rose Red (2001) written by Joyce Reardon, Skipping Christmas (2001) written by JOHN GRISHAM, Outlaw Marriage (Montana Mavericks) (Montana Mavericks) (2001) written by Laurie Paige.user dislikes: None.Whether the user will like the target book: Suzanne's Diary for Nicholas(2001) written by James Patterson?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:A Mad Carnival (1985) written by Mad Magazine, Why I Can't Read Wallace Stegner and Other Essays: A Tribal Voice (1996) written by Elizabeth Cook-Lynn, Song of Solomon (Oprah's Book Club (Paperback)) (1987) written by Toni Morrison, Al Jaffee's Mad Inventions (1990) written by Al Jaffee, Mad's Dave Berg Looks, Listens and Laughs (1979) written by Dave Berg, The Devil in the Shape of a Woman: Witchcraft in Colonial New England (1998) written by Carol F. Karlsen, Les Recres Du Petit Nicolas (2002) written by Goscinny Sempe.user dislikes: Beginning Postcolonialism (Beginnings (Manchester, England).)(2000) written by John McLeod, Environment and Society: Human Perspectives on Environmental Issues (2nd Edition)(2000) written by Charles L. Harper, Monu-Mentally Mad (#72)(1991) written by John Ficarra.Whether the user will like the target book: Mad Clowns Around(1987) written by Mad Staff?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: M'Lady Witch(1994) written by Christopher Stasheff, Vanished(1993) written by Danielle Steel, Echoes(1989) written by Maeve Binchy, Guardian's Key(2000) written by Anne Logston, Falcon and the Sword(1997) written by Julie Beard, Lord of the Isles (Lord of the Isles)(1997) written by David Drake, Behind a Mask : The Unknown Thrillers Of Louisa May Alcott(1997) written by Louisa May Alcott, This Is All I Ask(1997) written by Lynn Kurland, Stephen King's Danse Macabre(1997) written by Stephen King.Whether the user will like the target book: The Children of First Man(1997) written by James Alexander Thom?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Official Earth Day Guide to Planet Repair (2000) written by Denis Hayes, Second Nature (1992) written by MICHAEL POLLAN, A Year in Provence (1991) written by Peter Mayle.user dislikes: Toujours Provence (Vintage Departures)(1992) written by Peter Mayle, The Botany of Desire: A Plant's-Eye View of the World(2001) written by Michael Pollan, Blood on the Harp(1999) written by David Winston.Whether the user will like the target book: Natural Landscaping : Gardening With Nature To Create A Backyard Paradise (Rodale Garden Book)(2001) written by Sally Roth?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:From a Buick 8 (2003) written by Stephen King, Whispers (2003) written by Lisa Jackson, Last Seen...  (Cherokee Corners) (2003) written by Carla Cassidy, Expecting the Cowboy's Baby (2003) written by Charlene Sands, Body of Lies (2003) written by IRIS JOHANSEN, His Brother's Baby (2003) written by Laurie Campbell, The King of Torts (2003) written by JOHN GRISHAM.user dislikes: None.Whether the user will like the target book: Four Blind Mice(2003) written by James Patterson?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Anthony Hopkins: The Authorised Biography (1992) written by Quentin Falk, Death Duty (1998) written by Stephen Kimball, D Is for Deadbeat (Kinsey Millhone Mysteries (Paperback)) (1988) written by Sue Grafton.user dislikes: The King of Torts (Random House Large Print)(2003) written by JOHN GRISHAM, Assassination: Murder in politics(1975) written by Mary Agnes Donoghue, The Mothman Prophecies(2002) written by John A. Keel, Inner City Blues (Fawcett Book)(2002) written by Paula L. Woods, The Alchemist: A Fable About Following Your Dream(1993) written by Paulo Coelho, Shikasta: Re, Colonized Planet 5 : Personal, Psychological, Historical Documents Relating to Visit by Johor (Grade 9)(1981) written by Doris May Lessing, Resurrection Men (Inspector Rebus S.)(2002) written by Ian Rankin.Whether the user will like the target book: Descartes' Error: Emotion, Reason, and the Human Brain(1981) written by Antonio R. Damasio?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Fever Pitch. Ballfieber - Die Geschichte eines Fans. (2002) written by Nick Hornby, Mein Jahrhundert / My Century (2001) written by Gunter Grass.user dislikes: Hei\u00c3\u0083?\u00c3\u0082?es Geld. Ein Fall f\u00c3\u0083?\u00c3\u0082\u00c2\u00bcr John Coffin.(1999) written by Gwendoline Butler, UNDERWORLD(1997) written by Don DeLillo, Fr\u00c3\u0083?\u00c3\u0082\u00c2\u00b6sche und Prinzen.(1997) written by Andrea Brown, Consequences of the Heart (Panther S.)(2001) written by P. Cunningham, On the Road (Penguin Twentieth Century Classics)(1999) written by Jack Kerouac, Sommerhaus, sp\u00c3\u0083\u00c2\u00a4ter: Erz\u00c3\u0083\u00c2\u00a4hlungen (Collection S. Fischer)(1998) written by Judith Hermann, Bombay Ice(1999) written by LESLIE FORBES, Neue Leiden Des Jungen(0) written by Plenzdorf.Whether the user will like the target book: Soloalbum: Roman (KiWi)(1998) written by Benjamin v Stuckrad-Barre?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Alias Grace (0) written by Margaret Atwood.user dislikes: The Family Orchard: A Novel(2000) written by Nomi Eve, The Art of Deception: Controlling the Human Element of Security(2002) written by Kevin D.  Mitnick, Friends in High Places(2001) written by Donna Leon, Nooit meer slapen (BB literair)(1974) written by Willem Frederik Hermans, Surfacing(1998) written by MARGARET ATWOOD.Whether the user will like the target book: The 9 Ways of Working: How to Use the Enneagram to Discover Your Natural Strengths and Work More Effectively(1974) written by Michael J. Goldberg?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: Making Out 1: Zoey Fools Around (Making Out)(2001) written by Katherine Applegate, Monster Mission(2002) written by Eva Ibbotson, The Snog Log (Orchard Black Apple Fiction 10+)(2001) written by Michael Coleman, Julie and Me and Michael Owen Make Three(2001) written by Alan Gibbons, Boys on the Brain(2002) written by Jean Ure, DEAR AUNTY(2001) written by Patricia Borlenghi, Magic(2003) written by Sarah Brown.Whether the user will like the target book: To Summon a Spirit(2003) written by Enid Richemont?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:In the Presence of Enemies (1994) written by William J. Coughlin, East of Eden (Oprah's Book Club) (2003) written by John Steinbeck, Breaking the Ring (1987) written by John Barron.user dislikes: Message in a Bottle(1999) written by Nicholas Sparks, The Rainmaker(1996) written by JOHN GRISHAM, YOU BELONG TO ME(1998) written by Mary Higgins Clark, Your Child's Self-Esteem(1975) written by Dorothy Corkille Briggs, Gerbils As a New Pet(1990) written by Anmaire Barrie, Borrowed Dreams: The Roughest, Toughest Jobs on the Planet...and What I Learned from Working Them(1999) written by T. Scott Gross, Approaching Zero: The Extraordinary Underworld of Hackers, Phreakers, Virus Writers, and Keyboard Criminals(1993) written by Paul Mungo.Whether the user will like the target book: Healing Love Through the Tao: Cultivating Female Sexual Energy(1999) written by Mantak Chia?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:BAD DREAMS (FEAR STREET ) : BAD DREAMS (1994) written by R.L. Stine, LESSONS IN LOVE RIVER HEIGHTS #6 (River Heights, No 6) (1990) written by Carolyn Keene, Desert Royal (2000) written by Jean Sasson, His Other Girlfriend (Love Stories) (1999) written by Liesa Abrams, Summer Light (2002) written by Luanne Rice.user dislikes: Silent Honor(1996) written by Danielle Steel, Trail of Secrets(1997) written by Eileen Goudge, Can't Stop Loving You (Zebra Romantic Suspense)(2001) written by Janelle Taylor, Erotic Fairy Tales: A Romp through the Classics(2001) written by Mitzi Szereto, The Bridegroom(1999) written by Joan Johnston.Whether the user will like the target book: The Glass Lake(1990) written by Maeve Binchy?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: Gulliver's Travels (Signet Classic)(1985) written by Jonathan Swift, The Women of Brewster Place (Penguin Contemporary American Fiction Series)(1983) written by Gloria Naylor, The Princess and the Goblin (Puffin Classics - the Essential Collection)(1997) written by George MacDonald, Black Beauty (Puffin Classics)(1994) written by Anna Sewell.Whether the user will like the target book: Beloved (Plume Contemporary Fiction)(1994) written by Toni Morrison?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Holy Blood, Holy Grail (1983) written by MICHAEL BAIGENT, Robinson Crusoe (1998) written by Daniel Defoe.user dislikes: The Advocate's Devil(1995) written by Alan M. Dershowitz, Cradle and All(2000) written by James Patterson, Isle of Dogs(2001) written by Patricia Daniels Cornwell.Whether the user will like the target book: The Unknown Shore(1983) written by Patrick O'Brian?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Walden Or, Life in the Woods and on the Duty of Civil Disobedience (1987) written by Henry David Thoreau, The Kidnapping of Christina Lattimore (Laurel Leaf Books) (1992) written by JOAN LOWERY NIXON, Aura (1998) written by Carlos Fuentes, The Songcatcher: A Ballad Novel (2002) written by Sharyn McCrumb.user dislikes: The Rapture of Canaan(1997) written by Sheri Reynolds, The Firm(1992) written by John Grisham, Celestial Navigation(1993) written by Anne Tyler, Angels Fear: Towards an Epistemology of the Sacred(1988) written by Gregory Bateson, Black and Blue(1999) written by ANNA QUINDLEN, JITTERBUG PERFUME(1985) written by TOM ROBBINS.Whether the user will like the target book: A Return to Modesty: Discovering the Lost Virtue(1993) written by Wendy Shalit?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: Reflections And Dreams(2001) written by Nora Roberts, Vanished(2000) written by Alton Gansky, The Third Twin(1997) written by Ken Follett, Eloquent Silence(1995) written by Sandra Brown, A Walk to Remember(2000) written by Nicholas Sparks, Bare Bones : A Novel(2003) written by Kathy Reichs, A Heart So Wild(1986) written by Johanna Lindsey, Slightly Shady(2002) written by Amanda Quick, Portrait of a Killer: Jack the Ripper -- Case Closed(2002) written by Patricia Cornwell, Three Fates(2004) written by Nora Roberts.Whether the user will like the target book: ESAU(2004) written by Philip Kerr?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Hannibal (2000) written by Thomas Harris, Harry Potter and the Sorcerer's Stone (Book 1) (2001) written by J. K. Rowling, Without Remorse (2004) written by Tom Clancy, Pop Goes the Weasel (2000) written by James Patterson, Jack &amp; Jill (Alex Cross Novels) (1997) written by James Patterson, Cat &amp; Mouse (Alex Cross Novels) (1998) written by James Patterson.user dislikes: Snake Eaters (Hogs)(2001) written by James Ferro, Warriors Path(0) written by Louis Lamour, Ruthless.Com (Tom Clancy's Power Plays (Paperback))(1998) written by Tom Clancy, Throw Darts At A Cheesecake (Worldwide Library Mysteries)(1999) written by Denise Dietz.Whether the user will like the target book: Falling Star(0) written by Diana Dempsey?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Perhaps Today: Living Every Day in the Light of Christ's Return (2001) written by Tim Lahaye, Trial by Fire (1999) written by Frank Simon.user dislikes: Girl of the Woods (Grace Livingston Hill #09)(1989) written by Grace Hill, Far from the Dream (The Gentle Hills, Book 1)(1994) written by Lance Wubbels, African Skies (Palisades Pure Romance)(2000) written by Karen Rispin, Silver Wings (Grace Livingston Hill #37)(1992) written by Grace L. Hill, Pillow Talk For Couples : Drawing Closer Before the Lights Go Out(2003) written by Les, Dr Parrott.Whether the user will like the target book: One Tuesday Morning(1999) written by Karen Kingsbury?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Two Dead Girls (Green Mile Series) (1996) written by Stephen King, Talking to Heaven: A Medium's Message of Life After Death (1999) written by James Van Praagh, A Year by the Sea: Thoughts of an Unfinished Woman (2000) written by Joan Anderson.user dislikes: Unplug the Christmas Machine: A Complete Guide to Putting Love and Joy Back into the Season(1991) written by Jo Robinson.Whether the user will like the target book: Silent Witness(1996) written by RICHARD NORTH PATTERSON?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:A 2nd Helping of Chicken Soup for the Soul (1995) written by Jack Canfield.user dislikes: Taste Berries for Teens - Inspirational short stories and encouragement on life, love, friendship and tough issues(1999) written by Bettie Youngs, The Ape Who Guards the Balance : An Amelia Peabody Mystery(1999) written by Elizabeth Peters.Whether the user will like the target book: Trial by Fire(1999) written by Nancy Taylor Rosenberg?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Bluest Eye (2000) written by Toni Morrison.user dislikes: Mirror, Mirror on the Wall, Have I Got News for You!(1997) written by Liz Curtis Higgs, Feng shui: The Chinese art of placement(1983) written by Sarah Rossbach.Whether the user will like the target book: The Fellowship of the Ring (The Lord of the Rings, Part 1)(2000) written by J.R.R. TOLKIEN?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Big U (2001) written by Neal Stephenson, Blade Runner: (Do Androids Dream of Electric Sheep) (1990) written by Philip K. Dick, 100 Great Fantasy Short, Short Stories (1987) written by Isaac Asimov, The Iliad: The Story of Achilles (1991) written by Homer, Maus a Survivors Tale: My Father Bleeds History (1986) written by Art Spiegelman.user dislikes: Aeneid(1961) written by Vergil, A Shadow on the Glass (The View from the Mirror, Book 1)(2001) written by Ian Irvine, But Enough About You(1986) written by Cynthia Heimel, Elsewhere (Tor Fantasy)(1992) written by Will Shetterly, Videotrash &amp; Treasures: A Field Guide to the Video Unknown (Video Trash &amp; Treasures)(1992) written by L. A. Morse.Whether the user will like the target book: The Oresteia (Penguin Classics)(1992) written by Aeschylus?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Goldk\u00c3\u0083?\u00c3\u0082\u00c2\u00bcste. (2000) written by Nelson DeMille, Tod Im Herbst (0) written by Nabb.user dislikes: Jazz(1993) written by Toni Morrison, The Soddit : or, Cashing in Again (Gollancz SF S.)(2003) written by A.R.R.R. Roberts, Die Verwandlung.(1997) written by Franz Kafka, Faserland(0) written by Kracht, An den Feuern der Leyermark: Roman(1979) written by Carl Amery, Der F\u00c3\u0083?\u00c3\u0082\u00c2\u00bcnfte Elefant. Ein Scheibenwelt- Roman.(2002) written by Terry Pratchett, When Nietzsche Wept: A Novel of Obsession(1993) written by Irvin D. Yalom, Die Insel des vollkommenen Gl\u00c3\u0083?\u00c3\u0082\u00c2\u00bccks.(1999) written by Christian Waluszek.Whether the user will like the target book: Theos Reise. Roman \u00c3\u0083?\u00c3\u0082\u00c2\u00bcber die Religionen der Welt.(2002) written by Catherine Clement?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Fall on Your Knees (1997) written by Ann-Marie MacDonald, Confessions of a Shopaholic (Summer Display Opportunity) (2001) written by SOPHIE KINSELLA, Clara Callan : A Novel (2002) written by Richard B. Wright, Beggars in Spain (Beggars Trilogy (Paperback)) (1994) written by Nancy Kress.user dislikes: The Girls' Guide to Hunting and Fishing(2000) written by Melissa Bank, Unless : A Novel(2003) written by Carol Shields, The Olive Farm: A Memoir of Life, Love and Olive Oil in the South of France(2002) written by Carol Drinkwater, The Nanny Diaries: A Novel(2003) written by Emma McLaughlin, The No. 1 Ladies' Detective Agency (Today Show Book Club #8)(2003) written by Alexander McCall Smith, Four Blondes(2001) written by Candace Bushnell.Whether the user will like the target book: Seventh Heaven(2002) written by Alice Hoffman?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:With the Lightnings (1999) written by David Drake, On the Rim of the Mandala (1987) written by Paul Cook, Mrs. Pollifax and the Whirling Dervish (1991) written by Dorothy Gilman, Growing Up Weightless (1993) written by John M. Ford, Eyes of the Dragon (1988) written by Stephen King, Divided Allegiance (The Deed of Paksenarrion, Book 2) (1988) written by Elizabeth Moon, Sten (1982) written by Allan Cole, Master Wolf (Greyhawk Adventures, Book 3) (1987) written by Rose Estes, Jumper (1992) written by Steven Gould.user dislikes: Legacy(1995) written by Greg Bear.Whether the user will like the target book: PROTEUS COMBINED(1999) written by Charles Sheffield?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Running with Scissors: A Memoir (2003) written by Augusten Burroughs, Tis: A Memoir (2000) written by Frank McCourt.user dislikes: False Memory(2000) written by Dean R. Koontz, The Holder of the World(1994) written by Bharati Mukherjee.Whether the user will like the target book: All That Remains (Kay Scarpetta Mysteries (Paperback))(2000) written by Patricia D. Cornwell?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Bats and Other Animals of the Night (A Random House Pictureback) (1994) written by Joyce Milton, Cosbyology : Essays and Observations From the Doctor of Comedy (2002) written by Bill Cosby, Jonathan McBoo (1994) written by Shaun Gayle.user dislikes: Slow Waltz in Cedar Bend(1993) written by Robert James Waller.Whether the user will like the target book: Angels &amp; Demons(1994) written by Dan Brown?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Statistical Concepts and Methods (1978) written by Gouri K. Bhattacharyya.user dislikes: Oxford Learner's Pocket Dictionary(2003) written by Alison Waters, Life Millennium: The 100 Most Important Events and People of the Past 1000 Years(1998) written by Robert Friedman, A First Course in Probability(1997) written by Sheldon Ross, Longman Complete Course for the TOEFL Test: Preparation for the Computer and Paper Tests (Student Book + CD-ROM with Answer Key)(2000) written by Deborah Phillips, The Light and Shadow Tarot(1996) written by Brian Williams, SAT Success 2003(2002) written by Liza Kleinman, Oxford Learner's Pocket Dictionary(1991) written by Not Applicable (Na ), Extreme Justice (Silhouette Intimate Moments, 532)(1993) written by Marilyn Tracy, Bridget Jones' Diary (Film Tie-in)(2001) written by Helen Fielding.Whether the user will like the target book: ANTON: ELEMENTARY LINEAR ALGEBRA 5ED(1978) written by H ANTON?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: Dick Schaap as Told to Dick Schaap: 50 Years of Headlines, Deadlines &amp; Punchlines(2001) written by Dick Schaap, The Raven in the Foregate (Brother Cadfael Mysteries)(1988) written by Ellis Peters, The Moving Finger(1984) written by Agatha Christie, Internet Security: Professional Reference(1996) written by Derek Atkins, Finders Keepers(1989) written by Will, Busman's Honeymoon(1983) written by Dorothy Leigh Sayers, Hacker Proof : The Ultimate Guide to Network Security(1997) written by Lars Klander, Hacking Exposed: Network Security Secrets &amp; Solutions (Hacking Exposed)(1999) written by Stuart McClure, Brideshead Revisited(1999) written by Evelyn Waugh.Whether the user will like the target book: The Grail Tree(1999) written by Jonathan Gash?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The yawning heights (1980) written by Aleksandr Zinoviev.user dislikes: The Dragons of Eden: Speculations on the Evolution of Human Intelligence(1978) written by Carl Sagan, Breathing Lessons(1994) written by Anne Tyler.Whether the user will like the target book: The Joy Luck Club(1994) written by Amy Tan?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:None.user dislikes: Mothers Who Think : Tales Of Reallife Parenthood(2000) written by Camille Peri, Pigs in Heaven(1994) written by Barbara Kingsolver, The Vendetta Defense(2001) written by Lisa Scottoline, Moment of Truth(2000) written by Lisa Scottoline.Whether the user will like the target book: The Reader(2000) written by Bernhard Schlink?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Across Time And Death : The Extraordinary Search For My Past Life Family (1994) written by Jenny Cockell, Find Me (2002) written by Rosie O'Donnell.user dislikes: Breath, Eyes, Memory(1998) written by Edwidge Danticat, Getting Over Jack Wagner(2003) written by Elise Juska, Songs in Ordinary Time (Oprah's Book Club (Paperback))(1996) written by Mary McGarry Morris, Skipping Christmas(2001) written by JOHN GRISHAM, Prodigal Summer(2000) written by Barbara Kingsolver, She Flew the Coop : A Novel Concerning Life, Death, Sex and Recipes in Limoges, Louisiana(1995) written by Michael Lee West, The First Time(2001) written by Joy Fielding, The Summons(2002) written by John Grisham.Whether the user will like the target book: The Red Tent (Bestselling Backlist)(1995) written by Anita Diamant?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Fatherland (1995) written by Robert Harris, Half Moon Street (Charlotte &amp; Thomas Pitt Novels (Paperback)) (2001) written by Anne Perry, The Bonesetter's Daughter (2002) written by Amy Tan.user dislikes: Steeped in Murder (Professor Teodora Morelli Mystery)(1999) written by Linda French, AGE OF INNOCENCE (MOVIE TIE-IN)(1993) written by Edith Wharton, Reading Culture: Contexts for Critical Reading and Writing(1999) written by Diana George, Henderson's Spear: A Novel(2002) written by Ronald Wright, House of Lords(2002) written by Philip Rosenberg, The Seal Wife : A Novel(2002) written by KATHRYN HARRISON, The English Patient(1996) written by Michael Ondaatje.Whether the user will like the target book: The Stone Diaries(2002) written by Carol Shields?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Digital Fortress : A Thriller (2003) written by Dan Brown.user dislikes: Love's Unfolding Dream (Love Comes Softly)(1987) written by Janette Oke, More Than a Carpenter(1987) written by Josh McDowell, Miss Julia Meets Her Match(2004) written by Ann B. Ross, Dr. Atkins' New Diet Revolution(1997) written by Robert C. Atkins.Whether the user will like the target book: Silenced: The Wrath of God Descends (Underground Zealot)(2004) written by Jerry B. Jenkins?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Secret Life of Bees (2003) written by Sue Monk Kidd, Black and Blue (1999) written by ANNA QUINDLEN, The Hungry Ocean : A Swordboat Captain's Journey (2000) written by Linda Greenlaw.user dislikes: Three Junes(2003) written by JULIA GLASS, Breathing Lessons(1994) written by Anne Tyler.Whether the user will like the target book: The Price of a Child(2003) written by Lorene Cary?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:1984 (1990) written by George Orwell, Dude, Where's My Country? (2003) written by Michael Moore.user dislikes: The Gangster We Are All Looking For(2003) written by Le Thi Diem Thuy, Atonement : A Novel(2003) written by IAN MCEWAN, Attracting Birds(1991) written by Elaine Butler.Whether the user will like the target book: Bushwhacked: Inside Stories of True Conspiracy(2003) written by Uri Dowbenko?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Inferno (Mentor) (1993) written by Dante Alighieri, Detour (1988) written by Cheryl Crane, WHAT COLOR IS YOUR AURA? : WHAT COLOR IS YOUR AURA? (1989) written by Barbara Bowers, Sexscopes : How to Seduce, Stimulate, and Satisfy Any Sign (2001) written by Stuart Hazleton.user dislikes: Seven: A Novel(1995) written by Anthony Bruno, The Beach(1998) written by Alex Garland.Whether the user will like the target book: You Mean I Don't Have to Feel This Way?: New Help for Depression, Anxiety, and Addiction(1988) written by Colette Dowling?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:SAHARA (1995) written by Clive Cussler.user dislikes: Sweet Deception(1992) written by Colleen Faulkner, Delta Moonfire(1992) written by Linda Windsor.Whether the user will like the target book: The Reader(1995) written by Bernhard Schlink?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Emperor's General (1999) written by James H. Webb, Full Tide of Night (1998) written by J. R. Dunn, The Orion Mystery : Unlocking the Secrets of the Pyramids (1995) written by ROBERT BAUVAL, Atlantis: The Eighth Continent (1996) written by Charles Berlitz, Fingerprints of the Gods (1995) written by Graham Hancock.user dislikes: Essential Left Four Classic Texts on the Principles of Socialism(1960) written by Karl Marx, Private Life in New Kingdom Egypt(2002) written by Lynn Meskell, The Moon: Myth and Image(2003) written by Jules Cashford, The Traveler's Handbook: The Indispensable Worldwide Travel Guide(1997) written by Miranda Haines, Life Everywhere: The Maverick Science of Astrobiology(2001) written by David Darling.Whether the user will like the target book: The Big Splat, or How Our Moon Came to Be(2003) written by Dana  Mackenzie?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Regulators (1996) written by Richard Bachman, David Letterman's Book of Top Ten Lists and Zesty Lo-Cal Chicken Recipes (1995) written by David Letterman, Nightmares &amp; Dreamscapes (1993) written by Stephen King, SOURCE OF TROUBLE (1995) written by Debra Monroe, The Poisonwood Bible (2003) written by Barbara Kingsolver.user dislikes: The Rice Room: Growing Up Chinese-American-From Number Two Son to Rock'N'Roll(1994) written by Ben Fong-Torres, River's End(2003) written by Nora Roberts, Live from New York: An Uncensored History of Saturday Night Live(2002) written by Tom Shales, The Cottage(2003) written by Danielle Steel, In Contempt(1996) written by Christopher A. Darden.Whether the user will like the target book: Far from the Tree(2002) written by Virginia Deberry?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Balzac und die kleine chinesische Schneiderin. (2003) written by Dai Sijie, Menschenkind (0) written by Toni Morrison, Der ferne Spiegel. Das dramatische 14. Jahrhundert. (1982) written by Barbara Tuchman, Die L\u00c3\u0083?\u00c3\u0082\u00c2\u00bcgen der Frauen (2003) written by Ljudmila Ulitzkaja.user dislikes: Von einer, die auszog.(2000) written by Jen Banbury, Der Meister des Siebten Siegels.(1996) written by Johannes K. Soyener, Artemis Fowl.(2001) written by Eoin Colfer, Fanny und Scylla oder Die zweite Frau. Roman.(1992) written by Joan Aiken, Joanna.(1995) written by Lisa Saint Aubin de Teran, Die Zuckerb\u00c3\u0083?\u00c3\u0082\u00c2\u00a4ckerin.(2003) written by Petra Durst-Benning.Whether the user will like the target book: Planet der Tiere.(1992) written by Scott Bradfield?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:The Best a Man Can Get : A Novel (2002) written by JOHN O'FARRELL, Angelas Ashes (0) written by Frank Mccourt, Under the Skin (2001) written by Michel Faber.user dislikes: The Island of the Day Before(1996) written by Umberto Eco, My Legendary Girlfriend(2003) written by Mike Gayle, 253(0) written by Geoff Ryman, Dracula (Wordsworth Classics)(1997) written by B. Stoker, TWELVE(2001) written by Vanessa Jones, Welcome to the World Baby Girl(0) written by Fannie Flagg, Man Who Mistook His Wife for a Hat(0) written by Oliver Sacks.Whether the user will like the target book: First Love, Last Rites/Stories(0) written by Ian McEwan?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:A Patchwork Planet (Ballantine Reader's Circle) (1999) written by Anne Tyler, The Traveler's Gift : Seven Decisions that Determine Personal Success (2002) written by Andy Andrews.user dislikes: Bleachers(2003) written by John Grisham, Love Inspired: Heaven Knows(2003) written by Jillian Hart.Whether the user will like the target book: The Purpose-Driven Life: What on Earth Am I Here For?(2002) written by Rick Warren?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:Selling to the Affluent (1997) written by Thomas J. Stanley, Linked: The New Science of Networks (2002) written by Albert-L\u00c3\u0083\u00c2\u00a1szl\u00c3\u0083\u00c2\u00b3 Barab\u00c3\u0083\u00c2\u00a1si, Survival Is Not Enough: Zooming, Evolution, and the Future of Your Company (2002) written by Seth Godin.user dislikes: None.Whether the user will like the target book: Neuromancer (Remembering Tomorrow)(1997) written by William Gibson?",
+        "input": " ",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:After Henry (1993) written by Joan Didion, Urth of the New Sun (1988) written by Gene Wolfe, The Toddlers Busy Book (1999) written by Trish Kuffner.user dislikes: None.Whether the user will like the target book: The Bone People(1993) written by Keri Hulme?",
+        "input": " ",
+        "output": "No."
+    },
+    {
+        "instruction": "Given the user's like and dislike, identify whether the user will like the target book by answering yes or no.user likes:One Door Away from Heaven (2002) written by Dean R. Koontz.user dislikes: Revenge of the Gypsy Queen(2003) written by Kris Neri, Guilty Mind (Worldwide Library Mysteries)(2003) written by Irene Marcuse, Keeping Silent(2002) written by Carla Damron, Eleventh Hour: An FBI Thriller (FBI Thriller (Jove Paperback))(2004) written by Catherine Coulter, The Power of Unconditional Love: 21 Guidelines for Beginning, Improving, and Changing Your Most Meaningful Relationships(1990) written by Ken Keyes, The Body From Ipanema(2003) written by J.R. Ripley, The Girl In The Face Of The Clock (Worldwide Library Mysteries)(2002) written by Charles Mathes, Coffin's Ghost (Worldwide Library Mysteries)(2003) written by Gwendoline Butler, The Rainmaker(1996) written by JOHN GRISHAM.Whether the user will like the target book: The Testament(2002) written by John Grisham?",
+        "input": " ",
+        "output": "Yes."
+    }
+]
